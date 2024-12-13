@@ -1,0 +1,10 @@
+1.first get the last_boot_saving_addr using the patch file using this commmand:
+patch -p1 < lab2_patch.diff
+2.inside the last_boot_saving_adddr folder ,,u can get the terminal file  that is b.py...run this from ur pc to communicate with ur stm32..in this file..you have to correct the file path by giving its elf file path and bin path..the command is:
+objcopy -I elf32-little -O binary "/home/as/Documents/lastboot/duos24/src/compile/target/duos" "/home/as/Documents/today/duos24new.bin"
+
+the first path is the elf path and second on the the bin path and use this path inside the b.py file.
+The os is  made by 
+Md.Sakib Ur Rahman
+Md.Shoriful Islam Rayhan
+
