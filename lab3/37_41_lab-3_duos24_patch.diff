@@ -1,0 +1,4420 @@
+Binary files duos24/.DS_Store and duos24_lab3/.DS_Store differ
+diff -ruN duos24/.git/COMMIT_EDITMSG duos24_lab3/.git/COMMIT_EDITMSG
+--- duos24/.git/COMMIT_EDITMSG	1970-01-01 06:00:00.000000000 +0600
++++ duos24_lab3/.git/COMMIT_EDITMSG	2025-03-17 02:30:52.295067590 +0600
+@@ -0,0 +1 @@
++inital commit
+Binary files duos24/.git/index and duos24_lab3/.git/index differ
+Binary files duos24/.git/objects/00/7cab8fec2dcc89617e1ddf48b0abc3f9dfbf8d and duos24_lab3/.git/objects/00/7cab8fec2dcc89617e1ddf48b0abc3f9dfbf8d differ
+Binary files duos24/.git/objects/01/599e53c2b315c1e2bed4d0d956a278c055f83c and duos24_lab3/.git/objects/01/599e53c2b315c1e2bed4d0d956a278c055f83c differ
+Binary files duos24/.git/objects/02/402a8abfe6be7a54c15af258470ce0ee40b610 and duos24_lab3/.git/objects/02/402a8abfe6be7a54c15af258470ce0ee40b610 differ
+Binary files duos24/.git/objects/0a/48b53476596020e391f87f4bde3e1ea404da17 and duos24_lab3/.git/objects/0a/48b53476596020e391f87f4bde3e1ea404da17 differ
+Binary files duos24/.git/objects/0d/a4db12cdc17e597727faaa6a13d465148ff008 and duos24_lab3/.git/objects/0d/a4db12cdc17e597727faaa6a13d465148ff008 differ
+Binary files duos24/.git/objects/12/08538f1ddd42fd40acf8972e851c9b168654d1 and duos24_lab3/.git/objects/12/08538f1ddd42fd40acf8972e851c9b168654d1 differ
+Binary files duos24/.git/objects/12/990a01fba8191525bbccc2edfcbe4638f3cd8f and duos24_lab3/.git/objects/12/990a01fba8191525bbccc2edfcbe4638f3cd8f differ
+Binary files duos24/.git/objects/14/448808b446eadecae6d0841019b1450a4bf49b and duos24_lab3/.git/objects/14/448808b446eadecae6d0841019b1450a4bf49b differ
+Binary files duos24/.git/objects/14/b7ce0943159aa165d292a2c0be63da81bc13fa and duos24_lab3/.git/objects/14/b7ce0943159aa165d292a2c0be63da81bc13fa differ
+Binary files duos24/.git/objects/16/33baf23761dfbf060ee4448607b0cc30f5d7b0 and duos24_lab3/.git/objects/16/33baf23761dfbf060ee4448607b0cc30f5d7b0 differ
+Binary files duos24/.git/objects/19/d032161fc5141e14007abd14f22ec6dbcf24b4 and duos24_lab3/.git/objects/19/d032161fc5141e14007abd14f22ec6dbcf24b4 differ
+Binary files duos24/.git/objects/1f/c3ca14012a05d24abcdaef90981e5ff8e20b1b and duos24_lab3/.git/objects/1f/c3ca14012a05d24abcdaef90981e5ff8e20b1b differ
+Binary files duos24/.git/objects/20/1df9fc39e5db53f0afa6f20bacb25c245136cc and duos24_lab3/.git/objects/20/1df9fc39e5db53f0afa6f20bacb25c245136cc differ
+Binary files duos24/.git/objects/24/1f66e13b2e0f2304b4b6e473abbbe63961e3ab and duos24_lab3/.git/objects/24/1f66e13b2e0f2304b4b6e473abbbe63961e3ab differ
+Binary files duos24/.git/objects/25/de53e9df038288a7cce8d6a429b63a243cc40c and duos24_lab3/.git/objects/25/de53e9df038288a7cce8d6a429b63a243cc40c differ
+Binary files duos24/.git/objects/2b/75762fa0ec1f2f3cb23030ace2c5c450c758b0 and duos24_lab3/.git/objects/2b/75762fa0ec1f2f3cb23030ace2c5c450c758b0 differ
+Binary files duos24/.git/objects/2f/5ad86ea82bb92fa84599a8daa9e75419394034 and duos24_lab3/.git/objects/2f/5ad86ea82bb92fa84599a8daa9e75419394034 differ
+Binary files duos24/.git/objects/32/9188e8aada25a1d574b14c92d20cda9e1cd587 and duos24_lab3/.git/objects/32/9188e8aada25a1d574b14c92d20cda9e1cd587 differ
+Binary files duos24/.git/objects/34/87ee7c33efcdad03308d0ee39de8aa56a71cf5 and duos24_lab3/.git/objects/34/87ee7c33efcdad03308d0ee39de8aa56a71cf5 differ
+Binary files duos24/.git/objects/36/6a30b72521300da1acb494676e2f53d81548bf and duos24_lab3/.git/objects/36/6a30b72521300da1acb494676e2f53d81548bf differ
+Binary files duos24/.git/objects/39/82a5ff9fca2025b75b214de196354f9e9acd95 and duos24_lab3/.git/objects/39/82a5ff9fca2025b75b214de196354f9e9acd95 differ
+Binary files duos24/.git/objects/39/a31307d5f0cc6fe98de672610c1c16c916d256 and duos24_lab3/.git/objects/39/a31307d5f0cc6fe98de672610c1c16c916d256 differ
+Binary files duos24/.git/objects/39/bbde968fb750669a7bee114dfab1aa124a063f and duos24_lab3/.git/objects/39/bbde968fb750669a7bee114dfab1aa124a063f differ
+Binary files duos24/.git/objects/3a/2159b17f20d32eeb17b569465ea4c42afe449a and duos24_lab3/.git/objects/3a/2159b17f20d32eeb17b569465ea4c42afe449a differ
+Binary files duos24/.git/objects/3f/27677a7b46940b41a438176f490d58f14f10a7 and duos24_lab3/.git/objects/3f/27677a7b46940b41a438176f490d58f14f10a7 differ
+Binary files duos24/.git/objects/44/f0c2cd0257a7e67b2738bb73b679cdd409a205 and duos24_lab3/.git/objects/44/f0c2cd0257a7e67b2738bb73b679cdd409a205 differ
+Binary files duos24/.git/objects/49/9d21da39d841f8d47dafa1d53b8b8081c5e299 and duos24_lab3/.git/objects/49/9d21da39d841f8d47dafa1d53b8b8081c5e299 differ
+Binary files duos24/.git/objects/4d/4162df4af07092dbb01c25b967b5d27fbd19ce and duos24_lab3/.git/objects/4d/4162df4af07092dbb01c25b967b5d27fbd19ce differ
+Binary files duos24/.git/objects/4f/504198d7ffa54dc601011f9c0f1f7e89dd99c7 and duos24_lab3/.git/objects/4f/504198d7ffa54dc601011f9c0f1f7e89dd99c7 differ
+Binary files duos24/.git/objects/4f/7b5843f942c77e53ae7e15c61d7eb6d9d9b5c0 and duos24_lab3/.git/objects/4f/7b5843f942c77e53ae7e15c61d7eb6d9d9b5c0 differ
+Binary files duos24/.git/objects/55/9fab06fc1eea7d5bb558c59bba0747dcf1b296 and duos24_lab3/.git/objects/55/9fab06fc1eea7d5bb558c59bba0747dcf1b296 differ
+Binary files duos24/.git/objects/56/9fe4e6eeae67c7cc7462c054d69f8a84723dee and duos24_lab3/.git/objects/56/9fe4e6eeae67c7cc7462c054d69f8a84723dee differ
+Binary files duos24/.git/objects/59/bcd0b49236156f2bc8191c4f862c1fa13a21bb and duos24_lab3/.git/objects/59/bcd0b49236156f2bc8191c4f862c1fa13a21bb differ
+Binary files duos24/.git/objects/5b/d38a04f74f238d60494b7c16f1c12004616afc and duos24_lab3/.git/objects/5b/d38a04f74f238d60494b7c16f1c12004616afc differ
+Binary files duos24/.git/objects/5c/568e32244a014de0f04aab510674a18473246c and duos24_lab3/.git/objects/5c/568e32244a014de0f04aab510674a18473246c differ
+Binary files duos24/.git/objects/60/e954d82432cf65fdb18291f1dca89382ddf320 and duos24_lab3/.git/objects/60/e954d82432cf65fdb18291f1dca89382ddf320 differ
+Binary files duos24/.git/objects/62/7967f620e1be0412f8d462325addd1f48090f3 and duos24_lab3/.git/objects/62/7967f620e1be0412f8d462325addd1f48090f3 differ
+Binary files duos24/.git/objects/62/d30a0222ee0a85873ae3b447edd4fdd74fa4b3 and duos24_lab3/.git/objects/62/d30a0222ee0a85873ae3b447edd4fdd74fa4b3 differ
+Binary files duos24/.git/objects/63/3fa31f5e9a79f8d32894a1d79143905e46ec97 and duos24_lab3/.git/objects/63/3fa31f5e9a79f8d32894a1d79143905e46ec97 differ
+Binary files duos24/.git/objects/67/0169f0de06e236a2451d1118abd3575c549b59 and duos24_lab3/.git/objects/67/0169f0de06e236a2451d1118abd3575c549b59 differ
+Binary files duos24/.git/objects/67/1bee56ed1c74a8179e161c5a414cc54de5ece9 and duos24_lab3/.git/objects/67/1bee56ed1c74a8179e161c5a414cc54de5ece9 differ
+Binary files duos24/.git/objects/69/0a1bb5cfaaefea5e5209257cc8d1ffcdf41113 and duos24_lab3/.git/objects/69/0a1bb5cfaaefea5e5209257cc8d1ffcdf41113 differ
+Binary files duos24/.git/objects/69/e82cdfbaf70755d43e7d5e935d13835a47026a and duos24_lab3/.git/objects/69/e82cdfbaf70755d43e7d5e935d13835a47026a differ
+Binary files duos24/.git/objects/6d/8ad1dc4871bf6cc0584a72e5778916f45bbf9f and duos24_lab3/.git/objects/6d/8ad1dc4871bf6cc0584a72e5778916f45bbf9f differ
+Binary files duos24/.git/objects/77/3ea2a6b4c48ab6235ea1d2507b8afcca067863 and duos24_lab3/.git/objects/77/3ea2a6b4c48ab6235ea1d2507b8afcca067863 differ
+Binary files duos24/.git/objects/7b/84ea9b1c3d56696913a419b683eb9e0a3d8797 and duos24_lab3/.git/objects/7b/84ea9b1c3d56696913a419b683eb9e0a3d8797 differ
+Binary files duos24/.git/objects/7e/22c69d0cfa03d1af1d0b04b36c441b38281245 and duos24_lab3/.git/objects/7e/22c69d0cfa03d1af1d0b04b36c441b38281245 differ
+Binary files duos24/.git/objects/7e/39a2af26f1700e2a73fde0aa0fe58ce5ccea06 and duos24_lab3/.git/objects/7e/39a2af26f1700e2a73fde0aa0fe58ce5ccea06 differ
+Binary files duos24/.git/objects/82/876fc18fc9640db024d97a92d17e07f592bab5 and duos24_lab3/.git/objects/82/876fc18fc9640db024d97a92d17e07f592bab5 differ
+Binary files duos24/.git/objects/8b/00b1d0beb86937174d6624e414c60860edc2ef and duos24_lab3/.git/objects/8b/00b1d0beb86937174d6624e414c60860edc2ef differ
+Binary files duos24/.git/objects/8e/c97f22462b933ad34f1b27638287da0512f293 and duos24_lab3/.git/objects/8e/c97f22462b933ad34f1b27638287da0512f293 differ
+Binary files duos24/.git/objects/90/adf661dda8cd7eb1297e87e8a7719ede0f214e and duos24_lab3/.git/objects/90/adf661dda8cd7eb1297e87e8a7719ede0f214e differ
+Binary files duos24/.git/objects/90/cbb9c8ccf206cc4c575b443bb3ed9f829c0859 and duos24_lab3/.git/objects/90/cbb9c8ccf206cc4c575b443bb3ed9f829c0859 differ
+Binary files duos24/.git/objects/91/6bf4f970edee8db21036b450a58d7341ae8d8b and duos24_lab3/.git/objects/91/6bf4f970edee8db21036b450a58d7341ae8d8b differ
+Binary files duos24/.git/objects/92/168bcfce0dc2909f9be81549cdef98d1d771b9 and duos24_lab3/.git/objects/92/168bcfce0dc2909f9be81549cdef98d1d771b9 differ
+Binary files duos24/.git/objects/97/76df1e5f906bfadbb917721e8aeb485cac66f6 and duos24_lab3/.git/objects/97/76df1e5f906bfadbb917721e8aeb485cac66f6 differ
+Binary files duos24/.git/objects/98/47432c4d7527668dfc927d28f20ebe4fd5eca3 and duos24_lab3/.git/objects/98/47432c4d7527668dfc927d28f20ebe4fd5eca3 differ
+Binary files duos24/.git/objects/99/7f4fd09623d8e8fcc19e95ff7f6b362bbc3f3d and duos24_lab3/.git/objects/99/7f4fd09623d8e8fcc19e95ff7f6b362bbc3f3d differ
+Binary files duos24/.git/objects/99/8e2a77ee2d61aa22f7e39b522964a497a17d77 and duos24_lab3/.git/objects/99/8e2a77ee2d61aa22f7e39b522964a497a17d77 differ
+Binary files duos24/.git/objects/9a/918ce46af99a35e68e438ca36ec1f30d20bd0f and duos24_lab3/.git/objects/9a/918ce46af99a35e68e438ca36ec1f30d20bd0f differ
+Binary files duos24/.git/objects/9e/b0efeda3254018d1c1e15eb8acae10ce0710df and duos24_lab3/.git/objects/9e/b0efeda3254018d1c1e15eb8acae10ce0710df differ
+Binary files duos24/.git/objects/a1/2a1a55d78f3f370a70ae0131e885aa1c50f571 and duos24_lab3/.git/objects/a1/2a1a55d78f3f370a70ae0131e885aa1c50f571 differ
+Binary files duos24/.git/objects/a4/5938e7ad0168fe6105b392257d33cbc487bbe8 and duos24_lab3/.git/objects/a4/5938e7ad0168fe6105b392257d33cbc487bbe8 differ
+Binary files duos24/.git/objects/a5/2396c0715e12de1b97dbd8bbb3149341fbabc6 and duos24_lab3/.git/objects/a5/2396c0715e12de1b97dbd8bbb3149341fbabc6 differ
+Binary files duos24/.git/objects/ac/4b2a3d2d05678a4c72f3d51f2e2f2530d565af and duos24_lab3/.git/objects/ac/4b2a3d2d05678a4c72f3d51f2e2f2530d565af differ
+Binary files duos24/.git/objects/b1/c1ea4a4ea45981ab62a162dbc86edca1633cf3 and duos24_lab3/.git/objects/b1/c1ea4a4ea45981ab62a162dbc86edca1633cf3 differ
+Binary files duos24/.git/objects/b6/ce309131031e529b006ffcda72ba6dbfcb00b6 and duos24_lab3/.git/objects/b6/ce309131031e529b006ffcda72ba6dbfcb00b6 differ
+Binary files duos24/.git/objects/b7/38924a4fbe37a18b1bdece1af8bc72b5d52cc6 and duos24_lab3/.git/objects/b7/38924a4fbe37a18b1bdece1af8bc72b5d52cc6 differ
+Binary files duos24/.git/objects/bc/dbd71dc59f64e9d5f193bb186d4b46897b6781 and duos24_lab3/.git/objects/bc/dbd71dc59f64e9d5f193bb186d4b46897b6781 differ
+Binary files duos24/.git/objects/bd/d645900402346b93110be6e03f8a07a0d072ff and duos24_lab3/.git/objects/bd/d645900402346b93110be6e03f8a07a0d072ff differ
+Binary files duos24/.git/objects/be/449e561503eba3acb1aa2b58461cabf4625bb5 and duos24_lab3/.git/objects/be/449e561503eba3acb1aa2b58461cabf4625bb5 differ
+Binary files duos24/.git/objects/c2/0cce34093a9466934cef28b3b74225354ea318 and duos24_lab3/.git/objects/c2/0cce34093a9466934cef28b3b74225354ea318 differ
+Binary files duos24/.git/objects/c3/cbdea46a2dd7709b815852924bc97605ab4a44 and duos24_lab3/.git/objects/c3/cbdea46a2dd7709b815852924bc97605ab4a44 differ
+Binary files duos24/.git/objects/c4/8aafeea28232bc3810e40e1da5564733df327a and duos24_lab3/.git/objects/c4/8aafeea28232bc3810e40e1da5564733df327a differ
+Binary files duos24/.git/objects/c6/bbd8d39cb9c13bb1804f5e8f68fba6f2c57264 and duos24_lab3/.git/objects/c6/bbd8d39cb9c13bb1804f5e8f68fba6f2c57264 differ
+Binary files duos24/.git/objects/c7/a3c50a7992ac1eafea2320760e8ce509b58acb and duos24_lab3/.git/objects/c7/a3c50a7992ac1eafea2320760e8ce509b58acb differ
+Binary files duos24/.git/objects/c9/2577610c9c047aa01ed5028ee6fbeefc03607b and duos24_lab3/.git/objects/c9/2577610c9c047aa01ed5028ee6fbeefc03607b differ
+Binary files duos24/.git/objects/cb/19001cac20d1a40980d805aab28474d7af82a4 and duos24_lab3/.git/objects/cb/19001cac20d1a40980d805aab28474d7af82a4 differ
+Binary files duos24/.git/objects/cb/f78df84d984c79c856ffb774d8da6b48bc92c2 and duos24_lab3/.git/objects/cb/f78df84d984c79c856ffb774d8da6b48bc92c2 differ
+Binary files duos24/.git/objects/d0/0f3c084b9549655160bbda95190cd1c8dc9522 and duos24_lab3/.git/objects/d0/0f3c084b9549655160bbda95190cd1c8dc9522 differ
+Binary files duos24/.git/objects/d8/af2cee45df2df25b9cf313c23984d429f8ccc6 and duos24_lab3/.git/objects/d8/af2cee45df2df25b9cf313c23984d429f8ccc6 differ
+Binary files duos24/.git/objects/d9/1a41778173ff8667a0341b907ec56b4a979dc3 and duos24_lab3/.git/objects/d9/1a41778173ff8667a0341b907ec56b4a979dc3 differ
+Binary files duos24/.git/objects/e7/4d49c9276461588884b09c9d511d49e0410480 and duos24_lab3/.git/objects/e7/4d49c9276461588884b09c9d511d49e0410480 differ
+Binary files duos24/.git/objects/ef/72a3ecff7c0a5596979ca6c140de3d9b705e43 and duos24_lab3/.git/objects/ef/72a3ecff7c0a5596979ca6c140de3d9b705e43 differ
+Binary files duos24/.git/objects/f0/fafe34ae1875e1934b9e50b73925c7a7ad3e4f and duos24_lab3/.git/objects/f0/fafe34ae1875e1934b9e50b73925c7a7ad3e4f differ
+Binary files duos24/.git/objects/f2/725ca5868eb9e99a0135601263ab024f36d9b0 and duos24_lab3/.git/objects/f2/725ca5868eb9e99a0135601263ab024f36d9b0 differ
+Binary files duos24/.git/objects/f2/e8e8b5ec15ab50253863f9ebe4803f6db28b25 and duos24_lab3/.git/objects/f2/e8e8b5ec15ab50253863f9ebe4803f6db28b25 differ
+Binary files duos24/.git/objects/f4/f07cf37ce0b03c686ddf44ea24ba6afb6e3dac and duos24_lab3/.git/objects/f4/f07cf37ce0b03c686ddf44ea24ba6afb6e3dac differ
+Binary files duos24/.git/objects/f7/9df6325b3354295c7afe0f12a240ba28d42599 and duos24_lab3/.git/objects/f7/9df6325b3354295c7afe0f12a240ba28d42599 differ
+Binary files duos24/.git/objects/f9/ba568a99623201c9b7bf79ae07011fb6abd0c1 and duos24_lab3/.git/objects/f9/ba568a99623201c9b7bf79ae07011fb6abd0c1 differ
+Binary files duos24/.git/objects/fa/0c85c2ee7f4cc7347d9b2a6f73ae285c8a6d26 and duos24_lab3/.git/objects/fa/0c85c2ee7f4cc7347d9b2a6f73ae285c8a6d26 differ
+Binary files duos24/.git/objects/fb/445a5df16561a01125dc364d9d9ea45dbd7a6f and duos24_lab3/.git/objects/fb/445a5df16561a01125dc364d9d9ea45dbd7a6f differ
+Binary files duos24/.git/objects/fd/4840de338e11272f760b5cc3da90e1b22562eb and duos24_lab3/.git/objects/fd/4840de338e11272f760b5cc3da90e1b22562eb differ
+Binary files duos24/.git/objects/fe/4f610e477d21fbdce708114fe94baee0764281 and duos24_lab3/.git/objects/fe/4f610e477d21fbdce708114fe94baee0764281 differ
+Binary files duos24/.git/objects/ff/e3b6515fb52f8badb7c71cf935a12ba9d1c040 and duos24_lab3/.git/objects/ff/e3b6515fb52f8badb7c71cf935a12ba9d1c040 differ
+Binary files duos24/src/compile/build/final.elf and duos24_lab3/src/compile/build/final.elf differ
+diff -ruN duos24/src/compile/build/final.map duos24_lab3/src/compile/build/final.map
+--- duos24/src/compile/build/final.map	1970-01-01 06:00:00.000000000 +0600
++++ duos24_lab3/src/compile/build/final.map	2025-03-17 02:49:24.501558707 +0600
+@@ -0,0 +1,1084 @@
++
++Discarded input sections
++
++ .group         0x00000000        0xc object/kmath.o
++ .group         0x00000000        0xc object/kmath.o
++ .group         0x00000000        0xc object/kfloat.o
++ .group         0x00000000        0xc object/kfloat.o
++ .group         0x00000000        0xc object/kfloat.o
++ .group         0x00000000        0xc object/kfloat.o
++ .debug_macro   0x00000000      0xac6 object/kfloat.o
++ .debug_macro   0x00000000      0x34e object/kfloat.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .group         0x00000000        0xc object/cm4.o
++ .debug_macro   0x00000000      0xac6 object/cm4.o
++ .debug_macro   0x00000000      0x34e object/cm4.o
++ .debug_macro   0x00000000       0x8c object/cm4.o
++ .group         0x00000000        0xc object/mcu_info.o
++ .group         0x00000000        0xc object/mcu_info.o
++ .group         0x00000000        0xc object/mcu_info.o
++ .group         0x00000000        0xc object/mcu_info.o
++ .debug_macro   0x00000000      0xac6 object/mcu_info.o
++ .debug_macro   0x00000000      0x34e object/mcu_info.o
++ .debug_macro   0x00000000       0x8c object/mcu_info.o
++ .group         0x00000000        0xc object/kstring.o
++ .group         0x00000000        0xc object/kstring.o
++ .group         0x00000000        0xc object/kstring.o
++ .group         0x00000000        0xc object/kstring.o
++ .debug_macro   0x00000000      0xac6 object/kstring.o
++ .debug_macro   0x00000000      0x34e object/kstring.o
++ .debug_macro   0x00000000       0x8c object/kstring.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .group         0x00000000        0xc object/kmain.o
++ .debug_macro   0x00000000      0xac6 object/kmain.o
++ .debug_macro   0x00000000      0x34e object/kmain.o
++ .debug_macro   0x00000000       0x8c object/kmain.o
++ .debug_macro   0x00000000       0x66 object/kmain.o
++ .debug_macro   0x00000000      0x75c object/kmain.o
++ .debug_macro   0x00000000       0x9a object/kmain.o
++ .debug_macro   0x00000000     0xd558 object/kmain.o
++ .debug_macro   0x00000000      0x244 object/kmain.o
++ .debug_macro   0x00000000       0x1c object/kmain.o
++ .debug_macro   0x00000000       0x58 object/kmain.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .group         0x00000000        0xc object/stm32_startup.o
++ .debug_macro   0x00000000      0xac6 object/stm32_startup.o
++ .debug_macro   0x00000000      0x34e object/stm32_startup.o
++ .debug_macro   0x00000000     0xd558 object/stm32_startup.o
++ .debug_macro   0x00000000      0x244 object/stm32_startup.o
++ .debug_macro   0x00000000       0x1c object/stm32_startup.o
++ .debug_macro   0x00000000       0x8c object/stm32_startup.o
++ .debug_macro   0x00000000       0x9a object/stm32_startup.o
++ .debug_macro   0x00000000      0x75c object/stm32_startup.o
++ .debug_macro   0x00000000       0x10 object/stm32_startup.o
++ .debug_macro   0x00000000       0x58 object/stm32_startup.o
++ .debug_macro   0x00000000      0x1a1 object/stm32_startup.o
++ .group         0x00000000        0xc object/sys_clock.o
++ .group         0x00000000        0xc object/sys_clock.o
++ .group         0x00000000        0xc object/sys_clock.o
++ .group         0x00000000        0xc object/sys_clock.o
++ .debug_macro   0x00000000      0xac6 object/sys_clock.o
++ .debug_macro   0x00000000      0x34e object/sys_clock.o
++ .debug_macro   0x00000000     0xd552 object/sys_clock.o
++ .debug_macro   0x00000000       0x16 object/sys_clock.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .group         0x00000000        0xc object/sys_usart.o
++ .debug_macro   0x00000000      0xac6 object/sys_usart.o
++ .debug_macro   0x00000000      0x34e object/sys_usart.o
++ .debug_macro   0x00000000     0xd552 object/sys_usart.o
++ .debug_macro   0x00000000       0x8c object/sys_usart.o
++ .debug_macro   0x00000000      0x1a1 object/sys_usart.o
++ .debug_macro   0x00000000       0x6c object/sys_usart.o
++ .group         0x00000000        0xc object/sys_gpio.o
++ .group         0x00000000        0xc object/sys_gpio.o
++ .group         0x00000000        0xc object/sys_gpio.o
++ .group         0x00000000        0xc object/sys_gpio.o
++ .group         0x00000000        0xc object/sys_gpio.o
++ .group         0x00000000        0xc object/sys_gpio.o
++ .group         0x00000000        0xc object/sys_gpio.o
++ .group         0x00000000        0xc object/sys_gpio.o
++ .debug_macro   0x00000000      0xac6 object/sys_gpio.o
++ .debug_macro   0x00000000      0x34e object/sys_gpio.o
++ .debug_macro   0x00000000     0xd552 object/sys_gpio.o
++ .debug_macro   0x00000000       0x8c object/sys_gpio.o
++ .debug_macro   0x00000000       0xdd object/sys_gpio.o
++ .debug_macro   0x00000000      0x140 object/sys_gpio.o
++ .debug_macro   0x00000000       0x1c object/sys_gpio.o
++ .debug_macro   0x00000000       0x10 object/sys_gpio.o
++ .group         0x00000000        0xc object/kstdio.o
++ .group         0x00000000        0xc object/kstdio.o
++ .group         0x00000000        0xc object/kstdio.o
++ .group         0x00000000        0xc object/kstdio.o
++ .group         0x00000000        0xc object/kstdio.o
++ .group         0x00000000        0xc object/kstdio.o
++ .group         0x00000000        0xc object/kstdio.o
++ .group         0x00000000        0xc object/kstdio.o
++ .group         0x00000000        0xc object/kstdio.o
++ .debug_macro   0x00000000      0xac6 object/kstdio.o
++ .debug_macro   0x00000000       0x58 object/kstdio.o
++ .debug_macro   0x00000000      0x34e object/kstdio.o
++ .debug_macro   0x00000000       0x8c object/kstdio.o
++ .debug_macro   0x00000000     0xd558 object/kstdio.o
++ .debug_macro   0x00000000      0x19b object/kstdio.o
++ .debug_macro   0x00000000      0x201 object/kstdio.o
++ .debug_macro   0x00000000       0x10 object/kstdio.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .group         0x00000000        0xc object/sys_init.o
++ .debug_macro   0x00000000      0xac6 object/sys_init.o
++ .debug_macro   0x00000000      0x34e object/sys_init.o
++ .debug_macro   0x00000000       0x8c object/sys_init.o
++ .debug_macro   0x00000000       0x66 object/sys_init.o
++ .debug_macro   0x00000000      0x75c object/sys_init.o
++ .debug_macro   0x00000000     0xd558 object/sys_init.o
++ .debug_macro   0x00000000       0x16 object/sys_init.o
++ .debug_macro   0x00000000      0x1a1 object/sys_init.o
++ .debug_macro   0x00000000      0x140 object/sys_init.o
++ .debug_macro   0x00000000       0x10 object/sys_init.o
++ .debug_macro   0x00000000       0x10 object/sys_init.o
++ .debug_macro   0x00000000       0x3a object/sys_init.o
++ .group         0x00000000        0xc object/unistd.o
++ .group         0x00000000        0xc object/unistd.o
++ .group         0x00000000        0xc object/unistd.o
++ .group         0x00000000        0xc object/unistd.o
++ .group         0x00000000        0xc object/unistd.o
++ .group         0x00000000        0xc object/unistd.o
++ .group         0x00000000        0xc object/unistd.o
++ .debug_macro   0x00000000      0xac6 object/unistd.o
++ .debug_macro   0x00000000      0x34e object/unistd.o
++ .debug_macro   0x00000000       0x8c object/unistd.o
++ .debug_macro   0x00000000      0x244 object/unistd.o
++ .debug_macro   0x00000000       0x58 object/unistd.o
++ .debug_macro   0x00000000       0x6c object/unistd.o
++ .debug_macro   0x00000000      0x75c object/unistd.o
++ .group         0x00000000        0xc object/times.o
++ .group         0x00000000        0xc object/times.o
++ .group         0x00000000        0xc object/times.o
++ .group         0x00000000        0xc object/times.o
++ .debug_macro   0x00000000      0xac6 object/times.o
++ .debug_macro   0x00000000      0x34e object/times.o
++ .debug_macro   0x00000000      0x244 object/times.o
++ .debug_macro   0x00000000       0x8c object/times.o
++ .group         0x00000000        0xc object/kunistd.o
++ .group         0x00000000        0xc object/kunistd.o
++ .group         0x00000000        0xc object/kunistd.o
++ .group         0x00000000        0xc object/kunistd.o
++ .group         0x00000000        0xc object/kunistd.o
++ .group         0x00000000        0xc object/kunistd.o
++ .group         0x00000000        0xc object/kunistd.o
++ .group         0x00000000        0xc object/kunistd.o
++ .debug_macro   0x00000000      0xac6 object/kunistd.o
++ .debug_macro   0x00000000       0x1c object/kunistd.o
++ .debug_macro   0x00000000      0x34e object/kunistd.o
++ .debug_macro   0x00000000       0x8c object/kunistd.o
++ .debug_macro   0x00000000       0x9a object/kunistd.o
++ .debug_macro   0x00000000       0x6c object/kunistd.o
++ .debug_macro   0x00000000      0x75c object/kunistd.o
++ .debug_macro   0x00000000       0x10 object/kunistd.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .group         0x00000000        0xc object/syscall.o
++ .debug_macro   0x00000000      0xac6 object/syscall.o
++ .debug_macro   0x00000000      0x34e object/syscall.o
++ .debug_macro   0x00000000      0x244 object/syscall.o
++ .debug_macro   0x00000000       0x1c object/syscall.o
++ .debug_macro   0x00000000       0x8c object/syscall.o
++ .debug_macro   0x00000000       0x9a object/syscall.o
++ .debug_macro   0x00000000       0x6c object/syscall.o
++ .debug_macro   0x00000000      0x75c object/syscall.o
++ .debug_macro   0x00000000       0x10 object/syscall.o
++ .debug_macro   0x00000000       0x58 object/syscall.o
++ .debug_macro   0x00000000     0xd558 object/syscall.o
++ .debug_macro   0x00000000      0x19b object/syscall.o
++ .group         0x00000000        0xc object/serial_lin.o
++ .group         0x00000000        0xc object/serial_lin.o
++ .group         0x00000000        0xc object/serial_lin.o
++ .group         0x00000000        0xc object/serial_lin.o
++ .group         0x00000000        0xc object/serial_lin.o
++ .group         0x00000000        0xc object/serial_lin.o
++ .group         0x00000000        0xc object/serial_lin.o
++ .debug_macro   0x00000000      0xac6 object/serial_lin.o
++ .debug_macro   0x00000000      0x34e object/serial_lin.o
++ .debug_macro   0x00000000     0xd552 object/serial_lin.o
++ .debug_macro   0x00000000       0x8c object/serial_lin.o
++ .debug_macro   0x00000000      0x19b object/serial_lin.o
++ .debug_macro   0x00000000       0x10 object/serial_lin.o
++ .debug_macro   0x00000000       0x10 object/serial_lin.o
++ .group         0x00000000        0xc object/UsartRingBuffer.o
++ .group         0x00000000        0xc object/UsartRingBuffer.o
++ .group         0x00000000        0xc object/UsartRingBuffer.o
++ .group         0x00000000        0xc object/UsartRingBuffer.o
++ .group         0x00000000        0xc object/UsartRingBuffer.o
++ .group         0x00000000        0xc object/UsartRingBuffer.o
++ .group         0x00000000        0xc object/UsartRingBuffer.o
++ .group         0x00000000        0xc object/UsartRingBuffer.o
++ .group         0x00000000        0xc object/UsartRingBuffer.o
++ .debug_macro   0x00000000      0xac6 object/UsartRingBuffer.o
++ .debug_macro   0x00000000      0x34e object/UsartRingBuffer.o
++ .debug_macro   0x00000000     0xd552 object/UsartRingBuffer.o
++ .debug_macro   0x00000000       0x8c object/UsartRingBuffer.o
++ .debug_macro   0x00000000      0x19b object/UsartRingBuffer.o
++ .debug_macro   0x00000000       0x6c object/UsartRingBuffer.o
++ .debug_macro   0x00000000       0x10 object/UsartRingBuffer.o
++ .debug_macro   0x00000000      0x762 object/UsartRingBuffer.o
++ .group         0x00000000        0xc object/debug.o
++ .group         0x00000000        0xc object/debug.o
++ .group         0x00000000        0xc object/debug.o
++ .group         0x00000000        0xc object/debug.o
++ .debug_macro   0x00000000      0xac6 object/debug.o
++ .debug_macro   0x00000000      0x34e object/debug.o
++ .debug_macro   0x00000000       0x2e object/debug.o
++ .group         0x00000000        0xc object/timer.o
++ .group         0x00000000        0xc object/timer.o
++ .group         0x00000000        0xc object/timer.o
++ .group         0x00000000        0xc object/timer.o
++ .group         0x00000000        0xc object/timer.o
++ .group         0x00000000        0xc object/timer.o
++ .group         0x00000000        0xc object/timer.o
++ .group         0x00000000        0xc object/timer.o
++ .group         0x00000000        0xc object/timer.o
++ .group         0x00000000        0xc object/timer.o
++ .debug_macro   0x00000000      0xac6 object/timer.o
++ .debug_macro   0x00000000      0x34e object/timer.o
++ .debug_macro   0x00000000     0xd558 object/timer.o
++ .debug_macro   0x00000000       0x16 object/timer.o
++ .debug_macro   0x00000000       0x8c object/timer.o
++ .debug_macro   0x00000000       0xdd object/timer.o
++ .debug_macro   0x00000000      0x140 object/timer.o
++ .debug_macro   0x00000000       0x6c object/timer.o
++ .debug_macro   0x00000000      0x75c object/timer.o
++ .group         0x00000000        0xc object/sys_err.o
++ .group         0x00000000        0xc object/sys_err.o
++ .group         0x00000000        0xc object/sys_err.o
++ .group         0x00000000        0xc object/sys_err.o
++ .debug_macro   0x00000000      0xac6 object/sys_err.o
++ .debug_macro   0x00000000      0x34e object/sys_err.o
++ .debug_macro   0x00000000     0xd558 object/sys_err.o
++ .group         0x00000000        0xc object/sys_rtc.o
++ .group         0x00000000        0xc object/sys_rtc.o
++ .group         0x00000000        0xc object/sys_rtc.o
++ .group         0x00000000        0xc object/sys_rtc.o
++ .group         0x00000000        0xc object/sys_rtc.o
++ .debug_macro   0x00000000      0xac6 object/sys_rtc.o
++ .debug_macro   0x00000000      0x34e object/sys_rtc.o
++ .debug_macro   0x00000000     0xd558 object/sys_rtc.o
++ .debug_macro   0x00000000       0x10 object/sys_rtc.o
++ .group         0x00000000        0xc object/app.o
++ .group         0x00000000        0xc object/app.o
++ .group         0x00000000        0xc object/app.o
++ .group         0x00000000        0xc object/app.o
++ .group         0x00000000        0xc object/app.o
++ .group         0x00000000        0xc object/app.o
++ .group         0x00000000        0xc object/app.o
++ .debug_macro   0x00000000      0xac6 object/app.o
++ .debug_macro   0x00000000      0x34e object/app.o
++ .debug_macro   0x00000000       0x8c object/app.o
++ .debug_macro   0x00000000      0x244 object/app.o
++ .debug_macro   0x00000000       0x58 object/app.o
++ .debug_macro   0x00000000       0x6c object/app.o
++ .debug_macro   0x00000000      0x75c object/app.o
++
++Memory Configuration
++
++Name             Origin             Length             Attributes
++FLASH            0x08000000         0x00080000         xr
++SRAM             0x20000000         0x00020000         xrw
++*default*        0x00000000         0xffffffff
++
++Linker script and memory map
++
++LOAD object/kmath.o
++LOAD object/kfloat.o
++LOAD object/cm4.o
++LOAD object/mcu_info.o
++LOAD object/kstring.o
++LOAD object/kmain.o
++LOAD object/stm32_startup.o
++LOAD object/sys_clock.o
++LOAD object/sys_usart.o
++LOAD object/sys_gpio.o
++LOAD object/kstdio.o
++LOAD object/sys_init.o
++LOAD object/unistd.o
++LOAD object/times.o
++LOAD object/kunistd.o
++LOAD object/syscall.o
++LOAD object/serial_lin.o
++LOAD object/UsartRingBuffer.o
++LOAD object/debug.o
++LOAD object/timer.o
++LOAD object/sys_err.o
++LOAD object/sys_rtc.o
++LOAD object/app.o
++
++.text           0x08000000     0x6770
++                0x08000000                        _stext = .
++ *(.isr_vector)
++ .isr_vector    0x08000000      0x1c4 object/stm32_startup.o
++                0x08000000                NVIC_VECTOR
++ *(.text)
++ .text          0x080001c4       0x4e object/kmath.o
++                0x080001c4                __pow
++ *fill*         0x08000212        0x2 
++ .text          0x08000214      0xed4 object/kfloat.o
++                0x08000214                __aeabi_f2d
++                0x080002da                __aeabi_d2f
++                0x08000362                __aeabi_d2iz
++                0x080003f2                __aeabi_d2i
++                0x08000482                get_decimal_part
++                0x0800056c                __aeabi_ui2d
++                0x080005ec                __aeabi_d2uiz
++                0x08000662                __aeabi_dsub
++                0x08000922                __aeabi_dmul
++                0x08000ad4                __aeabi_dadd
++                0x08000d82                __aeabi_d2ulz
++                0x08000e00                __aeabi_ddiv
++                0x080010a8                __aeabi_dcmpeq
++ .text          0x080010e8      0x384 object/cm4.o
++                0x08001154                __SysTick_init
++                0x080011d8                SysTickIntDisable
++                0x080011f8                SysTickIntEnable
++                0x08001218                __SysTick_enable
++                0x08001244                __sysTick_disable
++                0x08001270                __getSysTickCount
++                0x08001288                __updateSysTick
++                0x080012e0                __getTime
++                0x08001314                __get__Second
++                0x0800132c                __get__Minute
++                0x08001344                __get__Hour
++                0x0800135c                SysTick_Handler
++                0x080013ac                __enable_fpu
++                0x080013d0                ms_delay
++                0x080013fa                getmsTick
++                0x08001408                wait_until
++                0x0800143a                SYS_SLEEP_WFI
++                0x0800144a                __set_pending
++ .text          0x0800146c      0x1a8 object/mcu_info.o
++                0x0800146c                show_system_info
++                0x08001518                store_product_id
++                0x08001600                get_product_id
++ .text          0x08001614      0x914 object/kstring.o
++                0x08001614                __str_to_num
++                0x080016f6                __reverse_str
++                0x08001754                __strlen
++                0x08001782                convert
++                0x08001800                convertu32
++                0x08001858                float2str
++                0x08001924                str2float
++                0x08001a26                kmemset
++                0x08001a72                StrCat
++                0x08001abc                strcopy
++                0x08001af6                clear_str
++                0x08001b34                strncopy
++                0x08001b86                strn4mcopy
++                0x08001bd4                byte_to_hex
++                0x08001c48                show_byte_hex_str
++                0x08001c88                show_byte_stream_hex
++                0x08001cc8                strcomp
++                0x08001d18                strncopy_cmd
++                0x08001d66                uint16_to_str
++                0x08001eb8                strCat_n_to_m
++ .text          0x08001f28      0xb00 object/kmain.o
++                0x08001f94                RTC_WKUP_Handler
++                0x08001f94                FLASH_Handler
++                0x08001f94                DMA2_Stream7_Handler
++                0x08001f94                OTG_HS_Handler
++                0x08001f94                DMA2_Stream3_Handler
++                0x08001f94                USART3_Handler
++                0x08001f94                NMI_Handler
++                0x08001f94                SAI1_Handler
++                0x08001f94                TIM6_DAC_Handler
++                0x08001f94                CAN1_RX1_Handler
++                0x08001f94                EXTI15_10_Handler
++                0x08001f94                ADC_Handler
++                0x08001f94                I2C1_EV_Handler
++                0x08001f94                TAMP_STAMP_Handler
++                0x08001f94                I2C3_ER_Handler
++                0x08001f94                WWDG_Handler
++                0x08001f94                EXTI4_Handler
++                0x08001f94                I2C3_EV_Handler
++                0x08001f94                DMA1_Stream1_Handler
++                0x08001f94                DMA2_Stream4_Handler
++                0x08001f94                DMA1_Stream7_Handler
++                0x08001f94                OTG_FS_Handler
++                0x08001f94                TIM1_BRK_TIM9_Handler
++                0x08001f94                I2C1_ER_Handler
++                0x08001f94                DMA1_Stream3_Handler
++                0x08001f94                UsageFault_Handler
++                0x08001f94                TIM1_UP_TIM10_Handler
++                0x08001f94                CAN1_RX0_Handler
++                0x08001f94                TIM1_CC_Handler
++                0x08001f94                I2C2_ER_Handler
++                0x08001f94                TIM8_CC_Handler
++                0x08001f94                HDMI_CEC_Handler
++                0x08001f94                SAI2_Handler
++                0x08001f94                CAN1_SCE_Handler
++                0x08001f94                DMA1_Stream0_Handler
++                0x08001f94                OTG_HS_EP1_OUT_Handler
++                0x08001f94                EXTI1_Handler
++                0x08001f94                FMC_Handler
++                0x08001f94                EXTI3_Handler
++                0x08001f94                EXTI2_Handler
++                0x08001f94                UART4_Handler
++                0x08001f94                CAN2_RX1_Handler
++                0x08001f94                EXTI9_5_Handler
++                0x08001f94                USART1_Handler
++                0x08001f94                CAN2_SCE_Handler
++                0x08001f94                TIM3_Handler
++                0x08001f94                DMA2_Stream6_Handler
++                0x08001f94                Default_Handler
++                0x08001f94                DCMI_Handler
++                0x08001f94                TIM1_TRG_COM_TIM11_Handler
++                0x08001f94                RTC_Alarm_Handler
++                0x08001f94                TIM4_Handler
++                0x08001f94                TIM8_UP_TIM13_Handler
++                0x08001f94                CAN2_TX_Handler
++                0x08001f94                SPI2_Handler
++                0x08001f94                DMA2_Stream1_Handler
++                0x08001f94                DMA1_Stream2_Handler
++                0x08001f94                EXTI0_Handler
++                0x08001f94                TIM8_BRK_TIM12_Handler
++                0x08001f94                CAN2_RX0_Handler
++                0x08001f94                DMA2_Stream5_Handler
++                0x08001f94                DMA1_Stream6_Handler
++                0x08001f94                SDIO_Handler
++                0x08001f94                FMPI2C1_ERR_Handler
++                0x08001f94                SPI1_Handler
++                0x08001f94                I2C2_EV_Handler
++                0x08001f94                SPDIF_Rx_Handler
++                0x08001f94                DMA2_Stream2_Handler
++                0x08001f94                SPI3_Handler
++                0x08001f94                DMA2_Stream0_Handler
++                0x08001f94                RCC_Handler
++                0x08001f94                PVD_Handler
++                0x08001f94                UART5_Handler
++                0x08001f94                DMA1_Stream5_Handler
++                0x08001f94                TIM5_Handler
++                0x08001f94                QuadSPI_Handler
++                0x08001f94                TIM7_Handler
++                0x08001f94                TIM8_TRG_COM_TIM14_Handler
++                0x08001f94                CAN1_TX_Handler
++                0x08001f94                FPU_Handler
++                0x08001f94                FMPI2C1_Handler
++                0x08001f94                DMA1_Stream4_Handler
++                0x08001f94                DebugMonitor_Handler
++                0x08001f94                OTG_HS_WKUP_Handler
++                0x08001f94                OTG_FS_WKUP_Handler
++                0x08001f94                SPI4_Handler
++                0x08001f94                OTG_HS_EP1_IN_Handler
++                0x08001f9c                create_tcb
++                0x0800205c                __set_user_mode
++                0x08002070                PSP_Init
++                0x0800208a                sleep_state
++                0x08002098                PendSV_Handler
++                0x080021c0                yield
++                0x080021e0                task_exit
++                0x0800224c                task0
++                0x08002284                task1
++                0x080022bc                task2
++                0x080022f4                task_for_fork
++                0x08002350                init_scheduler_for_fork
++                0x080023d8                start_task
++                0x080023fa                set_pending
++                0x0800241e                getPID
++                0x08002444                fork
++                0x08002494                init_tasks
++                0x080025f8                init_scheduler
++                0x08002764                find_file
++                0x080027b4                execve
++                0x080027ec                file_A
++                0x0800284c                file_B
++                0x0800286c                file_C
++                0x0800288c                init_file_system
++                0x08002940                init_task_for_execv
++                0x080029c0                kmain
++ .text          0x08002a28      0x10c object/stm32_startup.o
++                0x08002a30                Reset_Handler
++                0x08002af4                HardFault_Handler
++                0x08002afc                MemManage_Handler
++                0x08002b04                BusFault_Handler
++                0x08002b0c                SVCall_Handler
++ .text          0x08002b34      0x308 object/sys_clock.o
++                0x08002b34                __init_sys_clock
++                0x08002c00                __APB1CLK_FREQ
++                0x08002c7c                __APB2CLK_FREQ
++                0x08002cf8                __PLL_SYS_CLK
++                0x08002d90                __AHB_CLK
++ .text          0x08002e3c      0x584 object/sys_usart.o
++                0x08002eec                UART_Init
++                0x08002f86                UART_DeInit
++                0x08002ff4                UART_BRR_SAMPLING16
++                0x08003188                UART_MspInit
++ .text          0x080033c0      0x5bc object/sys_gpio.o
++                0x080033c0                GPIO_WritePin
++                0x080033f2                GPIO_Init
++                0x080036f8                GPIO_DeInit
++                0x080038e0                SPI_GPIOInit
++ .text          0x0800397c      0x320 object/kstdio.o
++                0x0800397c                kprintf
++                0x08003b14                kscanf
++ .text          0x08003c9c      0x144 object/sys_init.o
++                0x08003ce4                __sys_init
++                0x08003d48                heap_init
++                0x08003dc0                SYS_ROUTINE
++                0x08003dcc                display_group_info
++ .text          0x08003de0      0x3e0 object/unistd.o
++                0x08003de0                du_scanf
++                0x08003e0e                du_printf
++ .text          0x080041c0       0xf0 object/times.o
++                0x080041c0                du_getSystickTime
++                0x080041e2                du_reboot
++                0x080041fa                du_malloc
++                0x08004226                du_free
++                0x0800425c                fopen
++                0x0800428c                fclose
++ .text          0x080042b0      0x7cc object/kunistd.o
++                0x080042b0                __sys_start_task
++                0x080042da                __sys_fork
++                0x08004608                heap_malloc
++                0x0800480c                heap_free
++                0x080048ac                __sys_execv
++ .text          0x08004a7c      0x23c object/syscall.o
++                0x08004aa4                syscall
++ .text          0x08004cb8      0x1b8 object/serial_lin.o
++                0x08004cb8                SerialLin2_init
++                0x08004d50                SerialLin6_init
++                0x08004de8                USART2_Handler
++                0x08004dfc                USART6_Handler
++                0x08004e10                noIntWrite
++                0x08004e40                noIntSendString
++ .text          0x08004e70      0xd88 object/UsartRingBuffer.o
++                0x08004e70                Ringbuf_init
++                0x08004f0a                Look_for
++                0x08004faa                GetDataFromBuffer
++                0x080050ea                Uart_flush
++                0x08005126                Uart_peek
++                0x080051a0                Uart_read
++                0x08005240                Uart_write
++                0x080052f8                IsDataAvailable
++                0x0800537c                Get_after
++                0x080053da                Uart_sendstring
++                0x08005408                Uart_printbase
++                0x080054a0                Copy_upto
++                0x080055a0                Wait_for
++                0x0800568c                look_for_frame
++                0x080057f2                Uart_isr
++                0x08005900                update_tail
++                0x08005966                debug_buffer
++                0x080059ec                DRV_USART_INIT
++                0x08005aa8                UART_SendChar
++                0x08005ad6                _USART_WRITE
++                0x08005b04                _USART_READ
++                0x08005b56                UART_GetChar
++                0x08005b80                _USART_READ_STR
++ .text          0x08005bf8      0x110 object/debug.o
++                0x08005bf8                __debugRamUsage
++                0x08005c44                __digitalWriteDebugButton
++                0x08005ca0                __digitalReadDebugButton
++                0x08005cd0                __alalogReadDebug
++                0x08005ce8                __analogWriteDebug
++ .text          0x08005d08      0x228 object/timer.o
++                0x08005d44                ConfigTimer2ForSystem
++                0x08005dc0                Delay_micro_second
++                0x08005e54                Delay
++                0x08005e82                getMiliseconds
++                0x08005ec4                getMicroseconds
++                0x08005ef4                TIM2_Handler
++ .text          0x08005f30       0x14 object/sys_err.o
++                0x08005f30                Error_Handler
++ .text          0x08005f44      0x364 object/sys_rtc.o
++                0x08005f44                SYS_RTC_init
++                0x080061ec                get_timeofDay
++ .text          0x080062a8       0x14 object/app.o
++                0x080062a8                umain
++ *(.rodata)
++ .rodata        0x080062bc        0x8 object/cm4.o
++ .rodata        0x080062c4       0x64 object/mcu_info.o
++ .rodata        0x08006328        0x6 object/kstring.o
++ *fill*         0x0800632e        0x2 
++ .rodata        0x08006330      0x1f7 object/kmain.o
++ *fill*         0x08006527        0x1 
++ .rodata        0x08006528        0xc object/stm32_startup.o
++                0x08006530                STACK_START
++ .rodata        0x08006534       0x18 object/sys_clock.o
++                0x08006534                AHBPrescTable
++                0x08006544                APBPrescTable
++ .rodata        0x0800654c       0x59 object/sys_init.o
++ *fill*         0x080065a5        0x3 
++ .rodata        0x080065a8       0x1d object/times.o
++ *fill*         0x080065c5        0x3 
++ .rodata        0x080065c8      0x124 object/kunistd.o
++ .rodata        0x080066ec       0x72 object/syscall.o
++ *fill*         0x0800675e        0x2 
++ .rodata        0x08006760        0xd object/app.o
++                0x08006770                        . = ALIGN (0x4)
++ *fill*         0x0800676d        0x3 
++                0x08006770                        _etext = .
++                0x08006770                        _la_data = LOADADDR (.data)
++
++.glue_7         0x08006770        0x0
++ .glue_7        0x08006770        0x0 linker stubs
++
++.glue_7t        0x08006770        0x0
++ .glue_7t       0x08006770        0x0 linker stubs
++
++.vfp11_veneer   0x08006770        0x0
++ .vfp11_veneer  0x08006770        0x0 linker stubs
++
++.v4_bx          0x08006770        0x0
++ .v4_bx         0x08006770        0x0 linker stubs
++
++.iplt           0x08006770        0x0
++ .iplt          0x08006770        0x0 object/kfloat.o
++
++.rel.dyn        0x08006770        0x0
++ .rel.iplt      0x08006770        0x0 object/kfloat.o
++
++.data           0x20000000       0x78 load address 0x08006770
++                0x20000000                        _sdata = .
++ *(.data)
++ .data          0x20000000        0x0 object/kmath.o
++ .data          0x20000000        0x0 object/kfloat.o
++ .data          0x20000000        0x0 object/cm4.o
++ .data          0x20000000        0x0 object/mcu_info.o
++ .data          0x20000000       0x61 object/kstring.o
++ *fill*         0x20000061        0x3 
++ .data          0x20000064        0xc object/kmain.o
++                0x20000064                QUEUE_SIZE_P
++                0x20000068                TASK_ID
++                0x2000006c                size
++ .data          0x20000070        0x0 object/stm32_startup.o
++ .data          0x20000070        0x0 object/sys_clock.o
++ .data          0x20000070        0x0 object/sys_usart.o
++ .data          0x20000070        0x0 object/sys_gpio.o
++ .data          0x20000070        0x0 object/kstdio.o
++ .data          0x20000070        0x0 object/sys_init.o
++ .data          0x20000070        0x0 object/unistd.o
++ .data          0x20000070        0x0 object/times.o
++ .data          0x20000070        0x0 object/kunistd.o
++ .data          0x20000070        0x0 object/syscall.o
++ .data          0x20000070        0x8 object/serial_lin.o
++                0x20000070                errObj
++ .data          0x20000078        0x0 object/UsartRingBuffer.o
++ .data          0x20000078        0x0 object/debug.o
++ .data          0x20000078        0x0 object/timer.o
++ .data          0x20000078        0x0 object/sys_err.o
++ .data          0x20000078        0x0 object/sys_rtc.o
++ .data          0x20000078        0x0 object/app.o
++                0x20000078                        . = ALIGN (0x4)
++                0x20000078                        _edata = .
++
++.igot.plt       0x20000078        0x0 load address 0x080067e8
++ .igot.plt      0x20000078        0x0 object/kfloat.o
++
++.bss            0x20000078     0x14b1 load address 0x080067e8
++                0x20000078                        _sbss = .
++ *(.bss)
++ .bss           0x20000078        0x0 object/kmath.o
++ .bss           0x20000078        0x0 object/kfloat.o
++ .bss           0x20000078       0x11 object/cm4.o
++                0x20000088                __PendSV_Flag
++ *fill*         0x20000089        0x3 
++ .bss           0x2000008c       0x14 object/mcu_info.o
++ .bss           0x200000a0       0x32 object/kstring.o
++ *fill*         0x200000d2        0x2 
++ .bss           0x200000d4      0xba0 object/kmain.o
++                0x200000d4                CURR_TASK_P
++                0x200000d8                READY_QUEUE
++                0x20000164                psp_stack_addresses
++                0x2000016c                CURR_TASK
++                0x20000170                file_list
++                0x20000c70                file_count
++ .bss           0x20000c74        0x0 object/stm32_startup.o
++ .bss           0x20000c74        0x0 object/sys_clock.o
++ .bss           0x20000c74        0x0 object/sys_usart.o
++ .bss           0x20000c74        0x0 object/sys_gpio.o
++ .bss           0x20000c74        0x0 object/kstdio.o
++ .bss           0x20000c74       0x14 object/sys_init.o
++                0x20000c74                heap
++ .bss           0x20000c88        0x0 object/unistd.o
++ .bss           0x20000c88        0x0 object/times.o
++ .bss           0x20000c88        0x0 object/kunistd.o
++ .bss           0x20000c88        0x0 object/syscall.o
++ .bss           0x20000c88      0x890 object/serial_lin.o
++                0x20000c88                huart2
++                0x200010d0                huart6
++ .bss           0x20001518        0x0 object/UsartRingBuffer.o
++ .bss           0x20001518        0xc object/debug.o
++                0x2000151c                CURRENT_MSP
++                0x20001520                DEBUG_BUTTON
++                0x20001522                DEBUG_ANALOG_IO
++ .bss           0x20001524        0x5 object/timer.o
++ .bss           0x20001529        0x0 object/sys_err.o
++ .bss           0x20001529        0x0 object/sys_rtc.o
++ .bss           0x20001529        0x0 object/app.o
++                0x20001529                        _ebss = .
++
++.heap           0x20001529     0x8003 load address 0x080067e8
++                0x2000152c                        . = ALIGN (0x4)
++ *fill*         0x20001529        0x3 
++                0x2000152c                        _sheap = .
++                0x2000952c                        . = (. + 0x8000)
++ *fill*         0x2000152c     0x8000 
++ *(.heap)
++                0x2000952c                        . = ALIGN (0x4)
++                0x2000952c                        _eheap = .
++OUTPUT(build/final.elf elf32-littlearm)
++LOAD linker stubs
++
++.debug_info     0x00000000     0x87b8
++ .debug_info    0x00000000       0xce object/kmath.o
++ .debug_info    0x000000ce      0x771 object/kfloat.o
++ .debug_info    0x0000083f      0x885 object/cm4.o
++ .debug_info    0x000010c4      0x21f object/mcu_info.o
++ .debug_info    0x000012e3      0x7a5 object/kstring.o
++ .debug_info    0x00001a88      0xdde object/kmain.o
++ .debug_info    0x00002866      0x2ac object/stm32_startup.o
++ .debug_info    0x00002b12      0x46b object/sys_clock.o
++ .debug_info    0x00002f7d      0xd27 object/sys_usart.o
++ .debug_info    0x00003ca4      0x88c object/sys_gpio.o
++ .debug_info    0x00004530      0x2d1 object/kstdio.o
++ .debug_info    0x00004801      0x6b2 object/sys_init.o
++ .debug_info    0x00004eb3      0x297 object/unistd.o
++ .debug_info    0x0000514a      0x1bf object/times.o
++ .debug_info    0x00005309      0x780 object/kunistd.o
++ .debug_info    0x00005a89      0x891 object/syscall.o
++ .debug_info    0x0000631a      0x524 object/serial_lin.o
++ .debug_info    0x0000683e      0xe42 object/UsartRingBuffer.o
++ .debug_info    0x00007680      0x1cb object/debug.o
++ .debug_info    0x0000784b      0x848 object/timer.o
++ .debug_info    0x00008093       0xdd object/sys_err.o
++ .debug_info    0x00008170      0x5a1 object/sys_rtc.o
++ .debug_info    0x00008711       0xa7 object/app.o
++
++.debug_abbrev   0x00000000     0x27b7
++ .debug_abbrev  0x00000000       0x84 object/kmath.o
++ .debug_abbrev  0x00000084      0x149 object/kfloat.o
++ .debug_abbrev  0x000001cd      0x269 object/cm4.o
++ .debug_abbrev  0x00000436      0x13b object/mcu_info.o
++ .debug_abbrev  0x00000571      0x21e object/kstring.o
++ .debug_abbrev  0x0000078f      0x3ff object/kmain.o
++ .debug_abbrev  0x00000b8e      0x12c object/stm32_startup.o
++ .debug_abbrev  0x00000cba      0x10f object/sys_clock.o
++ .debug_abbrev  0x00000dc9      0x29d object/sys_usart.o
++ .debug_abbrev  0x00001066      0x183 object/sys_gpio.o
++ .debug_abbrev  0x000011e9      0x152 object/kstdio.o
++ .debug_abbrev  0x0000133b      0x242 object/sys_init.o
++ .debug_abbrev  0x0000157d      0x123 object/unistd.o
++ .debug_abbrev  0x000016a0      0x149 object/times.o
++ .debug_abbrev  0x000017e9      0x21a object/kunistd.o
++ .debug_abbrev  0x00001a03      0x277 object/syscall.o
++ .debug_abbrev  0x00001c7a      0x238 object/serial_lin.o
++ .debug_abbrev  0x00001eb2      0x382 object/UsartRingBuffer.o
++ .debug_abbrev  0x00002234      0x14c object/debug.o
++ .debug_abbrev  0x00002380      0x218 object/timer.o
++ .debug_abbrev  0x00002598       0x9a object/sys_err.o
++ .debug_abbrev  0x00002632      0x116 object/sys_rtc.o
++ .debug_abbrev  0x00002748       0x6f object/app.o
++
++.debug_aranges  0x00000000      0x2e0
++ .debug_aranges
++                0x00000000       0x20 object/kmath.o
++ .debug_aranges
++                0x00000020       0x20 object/kfloat.o
++ .debug_aranges
++                0x00000040       0x20 object/cm4.o
++ .debug_aranges
++                0x00000060       0x20 object/mcu_info.o
++ .debug_aranges
++                0x00000080       0x20 object/kstring.o
++ .debug_aranges
++                0x000000a0       0x20 object/kmain.o
++ .debug_aranges
++                0x000000c0       0x20 object/stm32_startup.o
++ .debug_aranges
++                0x000000e0       0x20 object/sys_clock.o
++ .debug_aranges
++                0x00000100       0x20 object/sys_usart.o
++ .debug_aranges
++                0x00000120       0x20 object/sys_gpio.o
++ .debug_aranges
++                0x00000140       0x20 object/kstdio.o
++ .debug_aranges
++                0x00000160       0x20 object/sys_init.o
++ .debug_aranges
++                0x00000180       0x20 object/unistd.o
++ .debug_aranges
++                0x000001a0       0x20 object/times.o
++ .debug_aranges
++                0x000001c0       0x20 object/kunistd.o
++ .debug_aranges
++                0x000001e0       0x20 object/syscall.o
++ .debug_aranges
++                0x00000200       0x20 object/serial_lin.o
++ .debug_aranges
++                0x00000220       0x20 object/UsartRingBuffer.o
++ .debug_aranges
++                0x00000240       0x20 object/debug.o
++ .debug_aranges
++                0x00000260       0x20 object/timer.o
++ .debug_aranges
++                0x00000280       0x20 object/sys_err.o
++ .debug_aranges
++                0x000002a0       0x20 object/sys_rtc.o
++ .debug_aranges
++                0x000002c0       0x20 object/app.o
++
++.debug_macro    0x00000000    0x1e0d7
++ .debug_macro   0x00000000       0x24 object/kmath.o
++ .debug_macro   0x00000024      0xac6 object/kmath.o
++ .debug_macro   0x00000aea      0x34e object/kmath.o
++ .debug_macro   0x00000e38       0x3c object/kfloat.o
++ .debug_macro   0x00000e74       0x1c object/kfloat.o
++ .debug_macro   0x00000e90       0x8c object/kfloat.o
++ .debug_macro   0x00000f1c       0xb3 object/cm4.o
++ .debug_macro   0x00000fcf       0x66 object/cm4.o
++ .debug_macro   0x00001035      0x75c object/cm4.o
++ .debug_macro   0x00001791     0xd558 object/cm4.o
++ .debug_macro   0x0000ece9       0x16 object/cm4.o
++ .debug_macro   0x0000ecff      0x244 object/cm4.o
++ .debug_macro   0x0000ef43       0x1c object/cm4.o
++ .debug_macro   0x0000ef5f       0x9a object/cm4.o
++ .debug_macro   0x0000eff9       0x10 object/cm4.o
++ .debug_macro   0x0000f009       0x58 object/cm4.o
++ .debug_macro   0x0000f061      0x1a1 object/cm4.o
++ .debug_macro   0x0000f202       0x50 object/mcu_info.o
++ .debug_macro   0x0000f252     0xd552 object/mcu_info.o
++ .debug_macro   0x0001c7a4       0x4a object/kstring.o
++ .debug_macro   0x0001c7ee       0x22 object/kstring.o
++ .debug_macro   0x0001c810       0xe8 object/kmain.o
++ .debug_macro   0x0001c8f8      0x19b object/kmain.o
++ .debug_macro   0x0001ca93       0x3a object/kmain.o
++ .debug_macro   0x0001cacd       0x10 object/kmain.o
++ .debug_macro   0x0001cadd       0xa8 object/stm32_startup.o
++ .debug_macro   0x0001cb85       0x6c object/stm32_startup.o
++ .debug_macro   0x0001cbf1       0x38 object/sys_clock.o
++ .debug_macro   0x0001cc29       0x90 object/sys_usart.o
++ .debug_macro   0x0001ccb9       0xdd object/sys_usart.o
++ .debug_macro   0x0001cd96      0x140 object/sys_usart.o
++ .debug_macro   0x0001ced6       0x1c object/sys_usart.o
++ .debug_macro   0x0001cef2       0x10 object/sys_usart.o
++ .debug_macro   0x0001cf02      0x762 object/sys_usart.o
++ .debug_macro   0x0001d664      0x201 object/sys_usart.o
++ .debug_macro   0x0001d865       0x6c object/sys_gpio.o
++ .debug_macro   0x0001d8d1       0x73 object/kstdio.o
++ .debug_macro   0x0001d944       0x10 object/kstdio.o
++ .debug_macro   0x0001d954       0xdb object/sys_init.o
++ .debug_macro   0x0001da2f       0xe3 object/sys_init.o
++ .debug_macro   0x0001db12       0x16 object/sys_init.o
++ .debug_macro   0x0001db28       0x2e object/sys_init.o
++ .debug_macro   0x0001db56       0x61 object/unistd.o
++ .debug_macro   0x0001dbb7       0x36 object/times.o
++ .debug_macro   0x0001dbed       0x56 object/kunistd.o
++ .debug_macro   0x0001dc43       0xa4 object/syscall.o
++ .debug_macro   0x0001dce7       0x71 object/serial_lin.o
++ .debug_macro   0x0001dd58       0x89 object/UsartRingBuffer.o
++ .debug_macro   0x0001dde1       0x58 object/UsartRingBuffer.o
++ .debug_macro   0x0001de39       0x32 object/debug.o
++ .debug_macro   0x0001de6b       0x10 object/debug.o
++ .debug_macro   0x0001de7b       0x8a object/timer.o
++ .debug_macro   0x0001df05       0x28 object/timer.o
++ .debug_macro   0x0001df2d       0x46 object/sys_err.o
++ .debug_macro   0x0001df73       0x86 object/sys_err.o
++ .debug_macro   0x0001dff9       0x3b object/sys_rtc.o
++ .debug_macro   0x0001e034       0x34 object/sys_rtc.o
++ .debug_macro   0x0001e068       0x6f object/app.o
++
++.debug_line     0x00000000     0x4a26
++ .debug_line    0x00000000       0xd0 object/kmath.o
++ .debug_line    0x000000d0      0x551 object/kfloat.o
++ .debug_line    0x00000621      0x35d object/cm4.o
++ .debug_line    0x0000097e      0x1ca object/mcu_info.o
++ .debug_line    0x00000b48      0x5e5 object/kstring.o
++ .debug_line    0x0000112d      0x63c object/kmain.o
++ .debug_line    0x00001769      0x28a object/stm32_startup.o
++ .debug_line    0x000019f3      0x288 object/sys_clock.o
++ .debug_line    0x00001c7b      0x3f2 object/sys_usart.o
++ .debug_line    0x0000206d      0x4f4 object/sys_gpio.o
++ .debug_line    0x00002561      0x2ee object/kstdio.o
++ .debug_line    0x0000284f      0x288 object/sys_init.o
++ .debug_line    0x00002ad7      0x29b object/unistd.o
++ .debug_line    0x00002d72      0x113 object/times.o
++ .debug_line    0x00002e85      0x42c object/kunistd.o
++ .debug_line    0x000032b1      0x2a1 object/syscall.o
++ .debug_line    0x00003552      0x21a object/serial_lin.o
++ .debug_line    0x0000376c      0xa2a object/UsartRingBuffer.o
++ .debug_line    0x00004196      0x123 object/debug.o
++ .debug_line    0x000042b9      0x27d object/timer.o
++ .debug_line    0x00004536      0x11a object/sys_err.o
++ .debug_line    0x00004650      0x26e object/sys_rtc.o
++ .debug_line    0x000048be      0x168 object/app.o
++
++.debug_str      0x00000000    0x52e44
++ .debug_str     0x00000000    0x52e44 object/kmath.o
++                               0x38b1 (size before relaxing)
++ .debug_str     0x00052e44     0x3cba object/kfloat.o
++ .debug_str     0x00052e44    0x4f6f3 object/cm4.o
++ .debug_str     0x00052e44    0x4a511 object/mcu_info.o
++ .debug_str     0x00052e44     0x3cde object/kstring.o
++ .debug_str     0x00052e44    0x4f98e object/kmain.o
++ .debug_str     0x00052e44    0x4f064 object/stm32_startup.o
++ .debug_str     0x00052e44    0x4a4fa object/sys_clock.o
++ .debug_str     0x00052e44    0x50d47 object/sys_usart.o
++ .debug_str     0x00052e44    0x4beb8 object/sys_gpio.o
++ .debug_str     0x00052e44    0x4bce4 object/kstdio.o
++ .debug_str     0x00052e44    0x5024b object/sys_init.o
++ .debug_str     0x00052e44     0x735f object/unistd.o
++ .debug_str     0x00052e44     0x403e object/times.o
++ .debug_str     0x00052e44     0x7123 object/kunistd.o
++ .debug_str     0x00052e44    0x4f30c object/syscall.o
++ .debug_str     0x00052e44    0x4b7f6 object/serial_lin.o
++ .debug_str     0x00052e44    0x4ed75 object/UsartRingBuffer.o
++ .debug_str     0x00052e44     0x3ab6 object/debug.o
++ .debug_str     0x00052e44    0x4f497 object/timer.o
++ .debug_str     0x00052e44    0x4a4a2 object/sys_err.o
++ .debug_str     0x00052e44    0x4a66e object/sys_rtc.o
++ .debug_str     0x00052e44     0x72d9 object/app.o
++
++.comment        0x00000000       0x26
++ .comment       0x00000000       0x26 object/kmath.o
++                                 0x27 (size before relaxing)
++ .comment       0x00000026       0x27 object/kfloat.o
++ .comment       0x00000026       0x27 object/cm4.o
++ .comment       0x00000026       0x27 object/mcu_info.o
++ .comment       0x00000026       0x27 object/kstring.o
++ .comment       0x00000026       0x27 object/kmain.o
++ .comment       0x00000026       0x27 object/stm32_startup.o
++ .comment       0x00000026       0x27 object/sys_clock.o
++ .comment       0x00000026       0x27 object/sys_usart.o
++ .comment       0x00000026       0x27 object/sys_gpio.o
++ .comment       0x00000026       0x27 object/kstdio.o
++ .comment       0x00000026       0x27 object/sys_init.o
++ .comment       0x00000026       0x27 object/unistd.o
++ .comment       0x00000026       0x27 object/times.o
++ .comment       0x00000026       0x27 object/kunistd.o
++ .comment       0x00000026       0x27 object/syscall.o
++ .comment       0x00000026       0x27 object/serial_lin.o
++ .comment       0x00000026       0x27 object/UsartRingBuffer.o
++ .comment       0x00000026       0x27 object/debug.o
++ .comment       0x00000026       0x27 object/timer.o
++ .comment       0x00000026       0x27 object/sys_err.o
++ .comment       0x00000026       0x27 object/sys_rtc.o
++ .comment       0x00000026       0x27 object/app.o
++
++.ARM.attributes
++                0x00000000       0x32
++ .ARM.attributes
++                0x00000000       0x32 object/kmath.o
++ .ARM.attributes
++                0x00000032       0x32 object/kfloat.o
++ .ARM.attributes
++                0x00000064       0x32 object/cm4.o
++ .ARM.attributes
++                0x00000096       0x32 object/mcu_info.o
++ .ARM.attributes
++                0x000000c8       0x32 object/kstring.o
++ .ARM.attributes
++                0x000000fa       0x32 object/kmain.o
++ .ARM.attributes
++                0x0000012c       0x32 object/stm32_startup.o
++ .ARM.attributes
++                0x0000015e       0x32 object/sys_clock.o
++ .ARM.attributes
++                0x00000190       0x32 object/sys_usart.o
++ .ARM.attributes
++                0x000001c2       0x32 object/sys_gpio.o
++ .ARM.attributes
++                0x000001f4       0x32 object/kstdio.o
++ .ARM.attributes
++                0x00000226       0x32 object/sys_init.o
++ .ARM.attributes
++                0x00000258       0x32 object/unistd.o
++ .ARM.attributes
++                0x0000028a       0x32 object/times.o
++ .ARM.attributes
++                0x000002bc       0x32 object/kunistd.o
++ .ARM.attributes
++                0x000002ee       0x32 object/syscall.o
++ .ARM.attributes
++                0x00000320       0x32 object/serial_lin.o
++ .ARM.attributes
++                0x00000352       0x32 object/UsartRingBuffer.o
++ .ARM.attributes
++                0x00000384       0x32 object/debug.o
++ .ARM.attributes
++                0x000003b6       0x32 object/timer.o
++ .ARM.attributes
++                0x000003e8       0x32 object/sys_err.o
++ .ARM.attributes
++                0x0000041a       0x32 object/sys_rtc.o
++ .ARM.attributes
++                0x0000044c       0x32 object/app.o
++
++.debug_frame    0x00000000     0x1b9c
++ .debug_frame   0x00000000       0x38 object/kmath.o
++ .debug_frame   0x00000038      0x2b4 object/kfloat.o
++ .debug_frame   0x000002ec      0x2b8 object/cm4.o
++ .debug_frame   0x000005a4       0x7c object/mcu_info.o
++ .debug_frame   0x00000620      0x340 object/kstring.o
++ .debug_frame   0x00000960      0x3e0 object/kmain.o
++ .debug_frame   0x00000d40       0xb8 object/stm32_startup.o
++ .debug_frame   0x00000df8       0xc4 object/sys_clock.o
++ .debug_frame   0x00000ebc      0x144 object/sys_usart.o
++ .debug_frame   0x00001000       0xb0 object/sys_gpio.o
++ .debug_frame   0x000010b0       0x8c object/kstdio.o
++ .debug_frame   0x0000113c       0xa8 object/sys_init.o
++ .debug_frame   0x000011e4       0x88 object/unistd.o
++ .debug_frame   0x0000126c       0xf4 object/times.o
++ .debug_frame   0x00001360       0xdc object/kunistd.o
++ .debug_frame   0x0000143c       0x4c object/syscall.o
++ .debug_frame   0x00001488       0xdc object/serial_lin.o
++ .debug_frame   0x00001564      0x3a4 object/UsartRingBuffer.o
++ .debug_frame   0x00001908       0xcc object/debug.o
++ .debug_frame   0x000019d4      0x10c object/timer.o
++ .debug_frame   0x00001ae0       0x2c object/sys_err.o
++ .debug_frame   0x00001b0c       0x64 object/sys_rtc.o
++ .debug_frame   0x00001b70       0x2c object/app.o
++
++.debug_rnglists
++                0x00000000       0x17
++ .debug_rnglists
++                0x00000000       0x17 object/UsartRingBuffer.o
+diff -ruN duos24/src/compile/Makefile duos24_lab3/src/compile/Makefile
+--- duos24/src/compile/Makefile	2024-09-30 23:22:59.000000000 +0600
++++ duos24_lab3/src/compile/Makefile	2025-03-17 02:25:31.317770005 +0600
+@@ -33,7 +33,8 @@
+ -mthumb $(FPU) \
+ -std=gnu11 \
+ -Wall \
+--O0
++-O0 \
++-g3
+ 
+ LDFLAGS = -nostdlib \
+ -nostartfiles \
+@@ -44,7 +45,8 @@
+ -T $(OS_PATH)/arch/$(MCU)/linker/linker.ld \
+ -Wl,-Map=$(MAPDIR)/duos.map \
+ -Wl,-Map=build/final.map \
+--O0
++-O0 
++
+ 
+ .PHONY: all clean load
+ 
+@@ -73,6 +75,7 @@
+ sys_spi.o \
+ sys_err.o \
+ sys_rtc.o \
++app.o \
+ duos \
+ final.elf
+ 
+@@ -159,6 +162,9 @@
+ test_can.o: $(USERLAND)/utils/test_can.c
+ 	$(CC) $(CFLAGS) $(INCLUDE) $^ -o $(OBJECT)/$@
+ 
++app.o: $(USERLAND)/utils/app.c
++	$(CC) $(CFLAGS) $(INCLUDE) $^ -o $(OBJECT)/$@
++
+ duos: $(OBJECT)/kmath.o \
+ 	$(OBJECT)/kfloat.o  \
+ 	$(OBJECT)/cm4.o \
+@@ -173,12 +179,15 @@
+ 	$(OBJECT)/sys_init.o \
+ 	$(OBJECT)/unistd.o \
+ 	$(OBJECT)/times.o \
++	$(OBJECT)/kunistd.o \
++	$(OBJECT)/syscall.o \
+ 	$(OBJECT)/serial_lin.o \
+ 	$(OBJECT)/UsartRingBuffer.o \
+ 	$(OBJECT)/debug.o \
+ 	$(OBJECT)/timer.o \
+ 	$(OBJECT)/sys_err.o \
+-	$(OBJECT)/sys_rtc.o  
++	$(OBJECT)/sys_rtc.o \
++	$(OBJECT)/app.o
+ 	
+ 
+ 	$(CC) $(LDFLAGS) $^ -o $(TARGET)/$@
+@@ -200,12 +209,15 @@
+ 	$(OBJECT)/sys_init.o \
+ 	$(OBJECT)/unistd.o \
+ 	$(OBJECT)/times.o \
++	$(OBJECT)/kunistd.o \
++	$(OBJECT)/syscall.o \
+ 	$(OBJECT)/serial_lin.o \
+ 	$(OBJECT)/UsartRingBuffer.o \
+ 	$(OBJECT)/debug.o \
+ 	$(OBJECT)/timer.o \
+ 	$(OBJECT)/sys_err.o \
+-	$(OBJECT)/sys_rtc.o 
++	$(OBJECT)/sys_rtc.o \
++	$(OBJECT)/app.o
+ 	
+ 	
+ 	$(CC) $(LDFLAGS) $^ -o build/$@
+@@ -216,7 +228,32 @@
+ clean:
+ 	rm -rf $(OBJECT)/*.o $(MAPDIR)/*.map $(TARGET)/* *.o *.elf build/*
+ 
+-# To Students -- Modify to match with the appropriate driver file.
++clean_w:
++	if exist $(OBJECT)\*.o del /Q $(OBJECT)\*.o
++	if exist $(MAPDIR)\*.map del /Q $(MAPDIR)\*.map
++	if exist $(TARGET)\* del /Q $(TARGET)\*
++	if exist *.o del /Q *.o
++	if exist *.elf del /Q *.elf
++	if exist build\* del /Q build\*
++
+ load:
+ 	openocd -f /usr/share/openocd/scripts/board/stm32f4discovery.cfg -f /usr/share/openocd/scripts/interface/stlink.cfg -c "program target/duos verify reset exit"
+ 
++# To Students -- Modify to match with the appropriate driver file.
++load_w:
++	openocd -f C:\OpenOCD-20240916-0.12.0\share\openocd\scripts\board\stm32f4discovery.cfg -f C:\OpenOCD-20240916-0.12.0\share\openocd\scripts\interface\stlink.cfg -c "program target/duos verify reset exit"
++
++#later added fro debug
++small_load:
++	openocd -f /usr/share/openocd/scripts/board/stm32f4discovery.cfg -f /usr/share/openocd/scripts/interface/stlink.cfg 
++
++clean_build:clean all
++gdb:
++	arm-none-eabi-gdb -x init.gdb
++gdb_debug:
++	arm-none-eabi-gdb -x init_debug.gdb
++# go to debug mode using gdb (with clean_build)
++debug_code:clean_build small_load 
++
++run:clean all load  
++run_w:clean_w all load_w
+\ No newline at end of file
+Binary files duos24/src/compile/object/app.o and duos24_lab3/src/compile/object/app.o differ
+Binary files duos24/src/compile/object/cm4.o and duos24_lab3/src/compile/object/cm4.o differ
+Binary files duos24/src/compile/object/debug.o and duos24_lab3/src/compile/object/debug.o differ
+Binary files duos24/src/compile/object/kfloat.o and duos24_lab3/src/compile/object/kfloat.o differ
+Binary files duos24/src/compile/object/kmain.o and duos24_lab3/src/compile/object/kmain.o differ
+Binary files duos24/src/compile/object/kmath.o and duos24_lab3/src/compile/object/kmath.o differ
+Binary files duos24/src/compile/object/kstdio.o and duos24_lab3/src/compile/object/kstdio.o differ
+Binary files duos24/src/compile/object/kstring.o and duos24_lab3/src/compile/object/kstring.o differ
+Binary files duos24/src/compile/object/ktimes.o and duos24_lab3/src/compile/object/ktimes.o differ
+Binary files duos24/src/compile/object/kunistd.o and duos24_lab3/src/compile/object/kunistd.o differ
+Binary files duos24/src/compile/object/mcu_info.o and duos24_lab3/src/compile/object/mcu_info.o differ
+Binary files duos24/src/compile/object/serial_lin.o and duos24_lab3/src/compile/object/serial_lin.o differ
+Binary files duos24/src/compile/object/stm32_startup.o and duos24_lab3/src/compile/object/stm32_startup.o differ
+Binary files duos24/src/compile/object/syscall.o and duos24_lab3/src/compile/object/syscall.o differ
+Binary files duos24/src/compile/object/sys_clock.o and duos24_lab3/src/compile/object/sys_clock.o differ
+Binary files duos24/src/compile/object/sys_err.o and duos24_lab3/src/compile/object/sys_err.o differ
+Binary files duos24/src/compile/object/sys_gpio.o and duos24_lab3/src/compile/object/sys_gpio.o differ
+Binary files duos24/src/compile/object/sys_init.o and duos24_lab3/src/compile/object/sys_init.o differ
+Binary files duos24/src/compile/object/sys_rtc.o and duos24_lab3/src/compile/object/sys_rtc.o differ
+Binary files duos24/src/compile/object/sys_spi.o and duos24_lab3/src/compile/object/sys_spi.o differ
+Binary files duos24/src/compile/object/sys_timer.o and duos24_lab3/src/compile/object/sys_timer.o differ
+Binary files duos24/src/compile/object/sys_usart.o and duos24_lab3/src/compile/object/sys_usart.o differ
+Binary files duos24/src/compile/object/timer.o and duos24_lab3/src/compile/object/timer.o differ
+Binary files duos24/src/compile/object/times.o and duos24_lab3/src/compile/object/times.o differ
+Binary files duos24/src/compile/object/unistd.o and duos24_lab3/src/compile/object/unistd.o differ
+Binary files duos24/src/compile/object/UsartRingBuffer.o and duos24_lab3/src/compile/object/UsartRingBuffer.o differ
+Binary files duos24/src/compile/target/duos and duos24_lab3/src/compile/target/duos differ
+diff -ruN duos24/src/kern/arch/cm4/cm4.c duos24_lab3/src/kern/arch/cm4/cm4.c
+--- duos24/src/kern/arch/cm4/cm4.c	2024-09-30 09:27:30.000000000 +0600
++++ duos24_lab3/src/kern/arch/cm4/cm4.c	2025-03-17 02:25:31.318770034 +0600
+@@ -30,12 +30,13 @@
+  
+ #include <cm4.h>
+ #include <sys_clock.h>
+-#include <syscall.h>
++#include <sys_call.h>
+ 
+ static volatile uint32_t __mscount;
+ static volatile uint32_t __sec_count;
+ static volatile uint32_t __min_count;
+ static volatile uint32_t __hour_count;
++extern volatile uint8_t __PendSV_Flag = 0;
+ /************************************************************************************
+ * __SysTick_init(uint32_t reload) 
+ * Function initialize the SysTick clock. The function with a weak attribute enables 
+@@ -122,6 +123,8 @@
+ void SysTick_Handler(void)
+ {
+     __mscount+=(SYSTICK->LOAD)/(PLL_N*1000);
++
++    if(__PendSV_Flag) SCB->ICSR |= (1 << 28); // set PendSV bit
+ }
+ 
+ void __enable_fpu()
+@@ -155,4 +158,8 @@
+ void SYS_SLEEP_WFI(void)
+ {
+     __WFI();
++}
++
++void __set_pending(uint8_t flag){
++    __PendSV_Flag = flag;
+ }
+\ No newline at end of file
+diff -ruN duos24/src/kern/arch/include/cm4/cm4.h duos24_lab3/src/kern/arch/include/cm4/cm4.h
+--- duos24/src/kern/arch/include/cm4/cm4.h	2024-09-28 11:53:44.000000000 +0600
++++ duos24_lab3/src/kern/arch/include/cm4/cm4.h	2025-03-17 02:25:31.319770064 +0600
+@@ -676,22 +676,25 @@
+ /**
+ * Function related to SysTick
+ */
+-void __SysTick_init(uint32_t);
+-void __SysTick_enable(void);
+-void __SysTick_disable(void);
+-uint32_t __getSysTickCount(void);
+-void __updateSysTick(uint32_t) ;
+-uint32_t __getTime(void);
+-uint32_t __get__Second(void);
+-uint32_t __get__Minute(void);
+-uint32_t __get__Hour(void);
+-uint32_t getmsTick(void);
+-void SysTick_Handler(void);
+-uint8_t ms_delay(uint32_t);
+-uint32_t wait_until(uint32_t);
+-void SysTickIntDisable(void);
+-void SysTickIntEnable(void);
+-void SYS_SLEEP_WFI(void);
++__attribute__((weak)) void __SysTick_init(uint32_t);
++__attribute__((weak)) void __SysTick_enable(void);
++__attribute__((weak)) void __SysTick_disable(void);
++__attribute__((weak)) uint32_t __getSysTickCount(void);
++__attribute__((weak)) void __updateSysTick(uint32_t) ;
++__attribute__((weak)) uint32_t __getTime(void);
++__attribute__((weak)) uint32_t __get__Second(void);
++__attribute__((weak)) uint32_t __get__Minute(void);
++__attribute__((weak)) uint32_t __get__Hour(void);
++__attribute__((weak)) uint32_t getmsTick(void);
++__attribute__((weak)) uint8_t ms_delay(uint32_t);
++__attribute__((weak)) uint32_t wait_until(uint32_t);
++__attribute__((weak)) void SysTickIntDisable(void);
++__attribute__((weak)) void SysTickIntEnable(void);
++__attribute__((weak)) void SYS_SLEEP_WFI(void);
++
++
++
++void __set_pending(uint8_t value);
+ /**
+ * Functions on FPU
+ **/
+diff -ruN duos24/src/kern/arch/stm32f446re/include/stm32_startup.h duos24_lab3/src/kern/arch/stm32f446re/include/stm32_startup.h
+--- duos24/src/kern/arch/stm32f446re/include/stm32_startup.h	2023-10-17 18:09:17.000000000 +0600
++++ duos24_lab3/src/kern/arch/stm32f446re/include/stm32_startup.h	2025-03-17 02:25:31.319770064 +0600
+@@ -36,10 +36,11 @@
+ 
+ #include <stdint.h>
+ #include <sys_bus_matrix.h>
++#include <sys_call.h>
+ 
+ 
+ 
+-int kmain(void);
++void kmain(void);
+ 
+ extern uint32_t _stext;
+ extern uint32_t _etext;
+@@ -49,9 +50,17 @@
+ extern uint32_t _ebss;
+ extern uint32_t _la_data;
+ 
+-volatile uint32_t _bss_size=0;
+-volatile uint32_t _data_size=0;
+-volatile uint32_t _text_size=0;
++extern uint32_t _sheap;
++extern uint32_t _eheap;
++
++extern volatile uint32_t _bss_size;
++extern volatile uint32_t _data_size;
++extern volatile uint32_t _text_size;
++extern volatile uint32_t _heap_size;
++
++__attribute__((weak)) void Default_Handler(void){
++    while(1);
++}
+ 
+ void Reset_Handler(void) __attribute__((weak));
+ void NMI_Handler(void) __attribute__((weak, alias("Default_Handler")));
+@@ -61,7 +70,7 @@
+ void UsageFault_Handler(void) __attribute__((weak, alias("Default_Handler")));
+ void SVCall_Handler(void) __attribute__((weak));
+ void DebugMonitor_Handler(void) __attribute__((weak, alias("Default_Handler")));
+-void PendSV_Handler(void) __attribute__((weak, alias("Default_Handler")));
++void PendSV_Handler(void) __attribute__((naked));
+ void SysTick_Handler(void) __attribute__((weak));
+ void WWDG_Handler(void) __attribute__((weak, alias("Default_Handler")));
+ void PVD_Handler(void) __attribute__((weak, alias("Default_Handler")));
+@@ -151,6 +160,7 @@
+ void FMPI2C1_ERR_Handler(void) __attribute__((weak, alias("Default_Handler")));
+ 
+ 
++
+ void update_global_tick_count(void);
+ 
+ 
+diff -ruN duos24/src/kern/arch/stm32f446re/linker/linker.ld duos24_lab3/src/kern/arch/stm32f446re/linker/linker.ld
+--- duos24/src/kern/arch/stm32f446re/linker/linker.ld	2023-10-15 15:05:22.000000000 +0600
++++ duos24_lab3/src/kern/arch/stm32f446re/linker/linker.ld	2025-03-17 02:25:31.328770327 +0600
+@@ -33,4 +33,13 @@
+ 		*(.bss)
+ 		_ebss = .; 
+ 	}>SRAM
++
++	.heap :
++	{	. = ALIGN(4);
++		_sheap = .;
++		. = . + 32K;
++		*(.heap)
++		. = ALIGN(4);
++		_eheap = .;
++	}>SRAM
+ }
+diff -ruN duos24/src/kern/arch/stm32f446re/sys_lib/stm32_startup.c duos24_lab3/src/kern/arch/stm32f446re/sys_lib/stm32_startup.c
+--- duos24/src/kern/arch/stm32f446re/sys_lib/stm32_startup.c	2024-06-12 11:38:37.000000000 +0600
++++ duos24_lab3/src/kern/arch/stm32f446re/sys_lib/stm32_startup.c	2025-03-17 02:25:31.329770356 +0600
+@@ -1,5 +1,5 @@
+ /*
+- * Copyright (c) 2022 
++ * Copyright (c) 2022
+  * Computer Science and Engineering, University of Dhaka
+  * Credit: CSE Batch 25 (starter) and Prof. Mosaddek Tushar
+  *
+@@ -27,170 +27,191 @@
+  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+  * SUCH DAMAGE.
+  */
+- 
++
+ #include <stm32_startup.h>
++
+ const uint32_t STACK_START = (uint32_t)SRAM_END;
+-uint32_t NVIC_VECTOR[] __attribute__((section (".isr_vector")))={
++uint32_t NVIC_VECTOR[] __attribute__((section(".isr_vector"))) = {
+ 	STACK_START,
+-	(uint32_t) &Reset_Handler,
+-	(uint32_t) &NMI_Handler,
+-	(uint32_t) &HardFault_Handler,
+-	(uint32_t) &MemManage_Handler,
+-	(uint32_t) &BusFault_Handler,
+-	(uint32_t) &UsageFault_Handler,
+-	0,
+-	0,
+-	0,
+-	0,
+-	(uint32_t) &SVCall_Handler,
+-	(uint32_t) &DebugMonitor_Handler,
+-	0,
+-	(uint32_t) &PendSV_Handler,
+-	(uint32_t) &SysTick_Handler,
+-	(uint32_t) &WWDG_Handler,
+-	(uint32_t) &PVD_Handler,
+-	(uint32_t) &TAMP_STAMP_Handler,
+-	(uint32_t) &RTC_WKUP_Handler,
+-	(uint32_t) &FLASH_Handler,
+-	(uint32_t) &RCC_Handler,
+-	(uint32_t) &EXTI0_Handler,
+-	(uint32_t) &EXTI1_Handler,
+-	(uint32_t) &EXTI2_Handler,
+-	(uint32_t) &EXTI3_Handler,
+-	(uint32_t) &EXTI4_Handler,
+-	(uint32_t) &DMA1_Stream0_Handler,
+-	(uint32_t) &DMA1_Stream1_Handler,
+-	(uint32_t) &DMA1_Stream2_Handler,
+-	(uint32_t) &DMA1_Stream3_Handler,
+-	(uint32_t) &DMA1_Stream4_Handler,
+-	(uint32_t) &DMA1_Stream5_Handler,
+-	(uint32_t) &DMA1_Stream6_Handler,
+-	(uint32_t) &ADC_Handler,
+-	(uint32_t) &CAN1_TX_Handler,
+-	(uint32_t) &CAN1_RX0_Handler,
+-	(uint32_t) &CAN1_RX1_Handler,
+-	(uint32_t) &CAN1_SCE_Handler,
+-	(uint32_t) &EXTI9_5_Handler,
+-	(uint32_t) &TIM1_BRK_TIM9_Handler,
+-	(uint32_t) &TIM1_UP_TIM10_Handler,
+-	(uint32_t) &TIM1_TRG_COM_TIM11_Handler,
+-	(uint32_t) &TIM1_CC_Handler,
+-	(uint32_t) &TIM2_Handler,
+-	(uint32_t) &TIM3_Handler,
+-	(uint32_t) &TIM4_Handler,
+-	(uint32_t) &I2C1_EV_Handler,
+-	(uint32_t) &I2C1_ER_Handler,
+-	(uint32_t) &I2C2_EV_Handler,
+-	(uint32_t) &I2C2_ER_Handler,
+-	(uint32_t) &SPI1_Handler,
+-	(uint32_t) &SPI2_Handler,
+-	(uint32_t) &USART1_Handler,
+-	(uint32_t) &USART2_Handler,
+-	(uint32_t) &USART3_Handler,
+-	(uint32_t) &EXTI15_10_Handler,
+-	(uint32_t) &RTC_Alarm_Handler,
+-	(uint32_t) &OTG_FS_WKUP_Handler,
+-	(uint32_t) &TIM8_BRK_TIM12_Handler,
+-	(uint32_t) &TIM8_UP_TIM13_Handler,
+-	(uint32_t) &TIM8_TRG_COM_TIM14_Handler,
+-	(uint32_t) &TIM8_CC_Handler,
+-	(uint32_t) &DMA1_Stream7_Handler,
+-	(uint32_t) &FMC_Handler,
+-	(uint32_t) &SDIO_Handler,
+-	(uint32_t) &TIM5_Handler,
+-	(uint32_t) &SPI3_Handler,
+-	(uint32_t) &UART4_Handler,
+-	(uint32_t) &UART5_Handler,
+-	(uint32_t) &TIM6_DAC_Handler,
+-	(uint32_t) &TIM7_Handler,
+-	(uint32_t) &DMA2_Stream0_Handler,
+-	(uint32_t) &DMA2_Stream1_Handler,
+-	(uint32_t) &DMA2_Stream2_Handler,
+-	(uint32_t) &DMA2_Stream3_Handler,
+-	(uint32_t) &DMA2_Stream4_Handler,
+-	0,
+-	0,
+-	(uint32_t) &CAN2_TX_Handler,
+-	(uint32_t) &CAN2_RX0_Handler,
+-	(uint32_t) &CAN2_RX1_Handler,
+-	(uint32_t) &CAN2_SCE_Handler,
+-	(uint32_t) &OTG_FS_Handler,
+-	(uint32_t) &DMA2_Stream5_Handler,
+-	(uint32_t) &DMA2_Stream6_Handler,
+-	(uint32_t) &DMA2_Stream7_Handler,
+-	(uint32_t) &USART6_Handler,
+-	(uint32_t) &I2C3_EV_Handler,
+-	(uint32_t) &I2C3_ER_Handler,
+-	(uint32_t) &OTG_HS_EP1_OUT_Handler,
+-	(uint32_t) &OTG_HS_EP1_IN_Handler,
+-	(uint32_t) &OTG_HS_WKUP_Handler,
+-	(uint32_t) &OTG_HS_Handler,
+-	(uint32_t) &DCMI_Handler,
+-	0,
+-	0,
+-	(uint32_t) &FPU_Handler,
+-	0,
+-	0,
+-	(uint32_t) &SPI4_Handler,
+-	0,
+-	0,
+-	(uint32_t) &SAI1_Handler,
+-	0,
+-	0,
+-	0,
+-	(uint32_t) &SAI2_Handler,
+-	(uint32_t) &QuadSPI_Handler,
+-	(uint32_t) &HDMI_CEC_Handler,
+-	(uint32_t) &SPDIF_Rx_Handler,
+-	(uint32_t) &FMPI2C1_Handler,
+-	(uint32_t) &FMPI2C1_ERR_Handler
+-};
++	(uint32_t)&Reset_Handler,
++	(uint32_t)&NMI_Handler,
++	(uint32_t)&HardFault_Handler,
++	(uint32_t)&MemManage_Handler,
++	(uint32_t)&BusFault_Handler,
++	(uint32_t)&UsageFault_Handler,
++	0,
++	0,
++	0,
++	0,
++	(uint32_t)&SVCall_Handler,
++	(uint32_t)&DebugMonitor_Handler,
++	0,
++	(uint32_t)&PendSV_Handler,
++	(uint32_t)&SysTick_Handler,
++	(uint32_t)&WWDG_Handler,
++	(uint32_t)&PVD_Handler,
++	(uint32_t)&TAMP_STAMP_Handler,
++	(uint32_t)&RTC_WKUP_Handler,
++	(uint32_t)&FLASH_Handler,
++	(uint32_t)&RCC_Handler,
++	(uint32_t)&EXTI0_Handler,
++	(uint32_t)&EXTI1_Handler,
++	(uint32_t)&EXTI2_Handler,
++	(uint32_t)&EXTI3_Handler,
++	(uint32_t)&EXTI4_Handler,
++	(uint32_t)&DMA1_Stream0_Handler,
++	(uint32_t)&DMA1_Stream1_Handler,
++	(uint32_t)&DMA1_Stream2_Handler,
++	(uint32_t)&DMA1_Stream3_Handler,
++	(uint32_t)&DMA1_Stream4_Handler,
++	(uint32_t)&DMA1_Stream5_Handler,
++	(uint32_t)&DMA1_Stream6_Handler,
++	(uint32_t)&ADC_Handler,
++	(uint32_t)&CAN1_TX_Handler,
++	(uint32_t)&CAN1_RX0_Handler,
++	(uint32_t)&CAN1_RX1_Handler,
++	(uint32_t)&CAN1_SCE_Handler,
++	(uint32_t)&EXTI9_5_Handler,
++	(uint32_t)&TIM1_BRK_TIM9_Handler,
++	(uint32_t)&TIM1_UP_TIM10_Handler,
++	(uint32_t)&TIM1_TRG_COM_TIM11_Handler,
++	(uint32_t)&TIM1_CC_Handler,
++	(uint32_t)&TIM2_Handler,
++	(uint32_t)&TIM3_Handler,
++	(uint32_t)&TIM4_Handler,
++	(uint32_t)&I2C1_EV_Handler,
++	(uint32_t)&I2C1_ER_Handler,
++	(uint32_t)&I2C2_EV_Handler,
++	(uint32_t)&I2C2_ER_Handler,
++	(uint32_t)&SPI1_Handler,
++	(uint32_t)&SPI2_Handler,
++	(uint32_t)&USART1_Handler,
++	(uint32_t)&USART2_Handler,
++	(uint32_t)&USART3_Handler,
++	(uint32_t)&EXTI15_10_Handler,
++	(uint32_t)&RTC_Alarm_Handler,
++	(uint32_t)&OTG_FS_WKUP_Handler,
++	(uint32_t)&TIM8_BRK_TIM12_Handler,
++	(uint32_t)&TIM8_UP_TIM13_Handler,
++	(uint32_t)&TIM8_TRG_COM_TIM14_Handler,
++	(uint32_t)&TIM8_CC_Handler,
++	(uint32_t)&DMA1_Stream7_Handler,
++	(uint32_t)&FMC_Handler,
++	(uint32_t)&SDIO_Handler,
++	(uint32_t)&TIM5_Handler,
++	(uint32_t)&SPI3_Handler,
++	(uint32_t)&UART4_Handler,
++	(uint32_t)&UART5_Handler,
++	(uint32_t)&TIM6_DAC_Handler,
++	(uint32_t)&TIM7_Handler,
++	(uint32_t)&DMA2_Stream0_Handler,
++	(uint32_t)&DMA2_Stream1_Handler,
++	(uint32_t)&DMA2_Stream2_Handler,
++	(uint32_t)&DMA2_Stream3_Handler,
++	(uint32_t)&DMA2_Stream4_Handler,
++	0,
++	0,
++	(uint32_t)&CAN2_TX_Handler,
++	(uint32_t)&CAN2_RX0_Handler,
++	(uint32_t)&CAN2_RX1_Handler,
++	(uint32_t)&CAN2_SCE_Handler,
++	(uint32_t)&OTG_FS_Handler,
++	(uint32_t)&DMA2_Stream5_Handler,
++	(uint32_t)&DMA2_Stream6_Handler,
++	(uint32_t)&DMA2_Stream7_Handler,
++	(uint32_t)&USART6_Handler,
++	(uint32_t)&I2C3_EV_Handler,
++	(uint32_t)&I2C3_ER_Handler,
++	(uint32_t)&OTG_HS_EP1_OUT_Handler,
++	(uint32_t)&OTG_HS_EP1_IN_Handler,
++	(uint32_t)&OTG_HS_WKUP_Handler,
++	(uint32_t)&OTG_HS_Handler,
++	(uint32_t)&DCMI_Handler,
++	0,
++	0,
++	(uint32_t)&FPU_Handler,
++	0,
++	0,
++	(uint32_t)&SPI4_Handler,
++	0,
++	0,
++	(uint32_t)&SAI1_Handler,
++	0,
++	0,
++	0,
++	(uint32_t)&SAI2_Handler,
++	(uint32_t)&QuadSPI_Handler,
++	(uint32_t)&HDMI_CEC_Handler,
++	(uint32_t)&SPDIF_Rx_Handler,
++	(uint32_t)&FMPI2C1_Handler,
++	(uint32_t)&FMPI2C1_ERR_Handler};
++
++void Reset_Handler(void)
++{
++	volatile uint32_t _bss_size = 0;
++	volatile uint32_t _data_size = 0;
++	volatile uint32_t _text_size = 0;
++	volatile uint32_t _heap_size = 0;
+ 
+-void Reset_Handler(void){
+ 	uint32_t size = (uint32_t)&_edata - (uint32_t)&_sdata;
+-	uint8_t *pDst = (uint8_t*)&_sdata;
+-	uint8_t *pSrc = (uint8_t*)&_la_data;
+-	for(uint32_t i=0;i<size;i++){
++	uint8_t *pDst = (uint8_t *)&_sdata;
++	uint8_t *pSrc = (uint8_t *)&_la_data;
++	for (uint32_t i = 0; i < size; i++)
++	{
+ 		*pDst++ = *pSrc++;
+ 	}
+ 	size = (uint32_t)&_ebss - (uint32_t)&_sbss;
+-	pDst = (uint8_t*)&_sbss;
+-	for(uint32_t i=0;i<size;i++){
++	pDst = (uint8_t *)&_sbss;
++
++	for (uint32_t i = 0; i < size; i++)
++	{
+ 		*pDst++ = 0;
+ 	}
+ 	_text_size = (uint32_t)&_etext - (uint32_t)&_stext;
+ 	_data_size = (uint32_t)&_edata - (uint32_t)&_sdata;
+ 	_bss_size = (uint32_t)&_ebss - (uint32_t)&_sbss;
+-	kmain();
+-}
+-void Default_Handler(void){
+-	while(1);
++	_heap_size = (uint32_t)&_eheap - (uint32_t)&_sheap; // should i do anything here??
++
++		kmain();
+ }
+-//2. implement the fault handlers
++
++// 2. implement the fault handlers
+ void HardFault_Handler(void)
+ {
+-//	printf("Exception : Hardfault\n");
+-	while(1);
++	// kprintf("Exception : Hardfault\n");
++	while (1)
++		;
+ }
+ 
+-
+ void MemManage_Handler(void)
+ {
+-//	printf("Exception : MemManage\n");
+-	while(1);
++	//	printf("Exception : MemManage\n");
++	while (1)
++		;
+ }
+ 
+ void BusFault_Handler(void)
+ {
+-//	printf("Exception : BusFault\n");
+-	while(1);
++	//	printf("Exception : BusFault\n");
++	while (1)
++		;
+ }
+ 
+-void SVCall_Handler(void){
+-/* Write code for SVC handler */
+-/* the handler function evntually call syscall function with a call number */
+-
++void SVCall_Handler(void)
++{
++	/* Write code for SVC handler */
++	/* the handler function evntually call syscall function with a call number */
++	uint32_t *args;
++
++	asm volatile(
++		"TST lr, #4\n"
++		"ITE EQ\n"
++		"MRSEQ r0, MSP\n"
++		"MRSNE r0, PSP\n"
++		"MOV %0, r0\n"
++		: "=r"(args)
++		:
++		:);
+ 
++	syscall(args);
+ }
+-
+-
+diff -ruN duos24/src/kern/include/kern/kunistd.h duos24_lab3/src/kern/include/kern/kunistd.h
+--- duos24/src/kern/include/kern/kunistd.h	2022-09-15 22:27:00.000000000 +0600
++++ duos24_lab3/src/kern/include/kern/kunistd.h	2025-03-17 02:25:31.329770356 +0600
+@@ -34,5 +34,21 @@
+ #define STDIN_FILENO  0      /* Standard input */
+ #define STDOUT_FILENO 1      /* Standard output */
+ #define STDERR_FILENO 2      /* Standard error */
++
++#include <stdint.h>
++#include <types.h>
++#include <kmain.h>
++#include <cm4.h>
++#include <sys_init.h>
++
++void *heap_malloc(uint32_t size);
++void heap_free(void *ptr);
++
++void __sys_start_task(uint32_t psp);
++
++int __sys_fork(uint32_t* parents_psp);
++
++int __sys_execv(char *filename, char *argv[], char *envp[]);
++
+ #endif /* KERN_UNISTD_H */
+ 
+diff -ruN duos24/src/kern/include/kern/syscall_def.h duos24_lab3/src/kern/include/kern/syscall_def.h
+--- duos24/src/kern/include/kern/syscall_def.h	2022-09-15 18:36:00.000000000 +0600
++++ duos24_lab3/src/kern/include/kern/syscall_def.h	2025-03-17 02:25:31.329770356 +0600
+@@ -150,6 +150,11 @@
+ //-- Other reboot scheduling etc. --
+ #define SYS_sync         118
+ #define SYS_reboot       119
+-#define SYS_yield        120	
++#define SYS_yield        120
++#define SYS_start        121
++#define SYS_set_pending  122
++
++#define SYS_malloc      123
++#define SYS_free         124
+ 
+ #endif /*End of SYSCALL_DEF_H */
+diff -ruN duos24/src/kern/include/kern/sys_init.h duos24_lab3/src/kern/include/kern/sys_init.h
+--- duos24/src/kern/include/kern/sys_init.h	2024-09-24 19:56:33.000000000 +0600
++++ duos24_lab3/src/kern/include/kern/sys_init.h	2025-03-17 02:25:31.330770385 +0600
+@@ -1,5 +1,5 @@
+ /*
+- * Copyright (c) 2022 
++ * Copyright (c) 2022
+  * Computer Science and Engineering, University of Dhaka
+  * Credit: CSE Batch 25 (starter) and Prof. Mosaddek Tushar
+  *
+@@ -27,22 +27,48 @@
+  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+  * SUCH DAMAGE.
+  */
+- 
++
+ #ifndef __SYS_INIT_H
+ #define __SYS_INIT_H
+ #ifdef __cplusplus
+-extern "C" {
++extern "C"
++{
+ #endif
+ 
+-#include<stdint.h>
++#include <stdint.h>
++
++    /* by faiak */
++
++    extern uint32_t _sheap;
++    extern uint32_t _eheap;
++
++    typedef struct heap_chunk
++    {
++        int size;
++        int isUse;
++        struct heap_chunk *next;
++    } heap_chunk;
++
++    typedef struct heap_info
++    {
++        heap_chunk *start;
++        heap_chunk *curr;
+ 
+-#define SET_ACT_DEV(QUEUE,DEV)  (QUEUE |= DEV)
+-void __sys_init(void); 
+-void SoftReset(void);
+-uint32_t verify_connectivity(void);
++        heap_chunk *free_list;
++        uint32_t available;
++    } heap_info;
++
++    extern heap_info *heap;
++
++    void heap_init(void);
++
++/********** */
++#define SET_ACT_DEV(QUEUE, DEV) (QUEUE |= DEV)
++    void __sys_init(void);
++    void SoftReset(void);
++    uint32_t verify_connectivity(void);
+ 
+ #ifdef __cplusplus
+ }
+ #endif
+ #endif /* SYS_INIT */
+-
+diff -ruN duos24/src/kern/include/kern/types.h duos24_lab3/src/kern/include/kern/types.h
+--- duos24/src/kern/include/kern/types.h	2024-09-20 13:00:06.000000000 +0600
++++ duos24_lab3/src/kern/include/kern/types.h	2025-03-17 02:25:31.330770385 +0600
+@@ -96,7 +96,7 @@
+ typedef struct task_tcb{
+ 	uint32_t magic_number; //here it is 0xFECABAA0
+ 	uint16_t task_id; //a unsigned 16 bit integer starting from 1000 
+-	void *psp; //task stack pointer or stackframe address
++	uint32_t *psp; //task stack pointer or stackframe address
+ 	uint16_t status; //task status: running, waiting, ready, killed, or terminated
+ 	uint32_t execution_time; //total execution time (in ms)
+ 	uint32_t waiting_time; //total waiting time (in ms)
+diff -ruN duos24/src/kern/include/kmain.h duos24_lab3/src/kern/include/kmain.h
+--- duos24/src/kern/include/kmain.h	2023-09-28 17:09:52.000000000 +0600
++++ duos24_lab3/src/kern/include/kmain.h	2025-03-17 02:25:31.330770385 +0600
+@@ -55,6 +55,56 @@
+ 
+ #define INTERRUPT_ENABLE()  do{__asm volatile ("MOV R0,#0x0"); asm volatile("MSR PRIMASK,R0"); } while(0)
+ 
++//by FAIAK
++#define RUNNING 0
++#define WAITING 1
++#define READY 2
++#define KILLED 3
++#define TERMINATED 4
++
++
++extern volatile uint16_t  TASK_ID;
++const static uint32_t MAGIC_NUMBER = 0xFECABAA0;
++const static uint32_t DIGITAL_SIGNATURE = 0x00000001; 
++
++#define MAX_QUEUE_SIZE_P  5
++
++
++extern volatile uint32_t QUEUE_SIZE_P ;
++extern volatile uint32_t CURR_TASK_P ;
++
++extern volatile TCB_TypeDef READY_QUEUE[MAX_QUEUE_SIZE_P];
++
++void create_tcb(TCB_TypeDef *tcb, void(*func_ptr)(void), uint32_t* stack_start);
++
++
++
++
++#define O_RDONLY 0
++#define O_WRONLY 1
++#define O_APPEND 2
++
++/* Constants for read/write/etc: special file handles */
++#define STDIN_FILENO  0      /* Standard input */
++#define STDOUT_FILENO 1      /* Standard output */
++#define STDERR_FILENO 2      /* Standard error */
++
++#define MAX_FILES 64
++
++typedef struct file_entry {
++    char name[32];     // File name
++    uint32_t *address; // Memory-mapped file location
++    uint32_t size;     // File size in bytes
++    uint8_t mode;      // File mode
++} file_entry_t;
++
++
++extern volatile file_entry_t file_list[MAX_FILES];
++extern volatile uint32_t file_count;
++
++int find_file(char *filename);
++
++
+ #ifdef __cplusplus
+ }
+ #endif
+diff -ruN duos24/src/kern/include/sys_call.h duos24_lab3/src/kern/include/sys_call.h
+--- duos24/src/kern/include/sys_call.h	1970-01-01 06:00:00.000000000 +0600
++++ duos24_lab3/src/kern/include/sys_call.h	2025-03-17 02:25:31.332770444 +0600
+@@ -0,0 +1,46 @@
++/*
++ * Copyright (c) 2022 
++ * Computer Science and Engineering, University of Dhaka
++ * Credit: CSE Batch 25 (starter) and Prof. Mosaddek Tushar
++ *
++ * Redistribution and use in source and binary forms, with or without
++ * modification, are permitted provided that the following conditions
++ * are met:
++ * 1. Redistributions of source code must retain the above copyright
++ *    notice, this list of conditions and the following disclaimer.
++ * 2. Redistributions in binary form must reproduce the above copyright
++ *    notice, this list of conditions and the following disclaimer in the
++ *    documentation and/or other materials provided with the distribution.
++ * 3. Neither the name of the University nor the names of its contributors
++ *    may be used to endorse or promote products derived from this software
++ *    without specific prior written permission.
++ *
++ * THIS SOFTWARE IS PROVIDED BY THE UNIVERSITY AND CONTRIBUTORS ``AS IS'' AND
++ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
++ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
++ * ARE DISCLAIMED.  IN NO EVENT SHALL THE UNIVERSITY OR CONTRIBUTORS BE LIABLE
++ * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
++ * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
++ * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
++ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
++ * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
++ * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
++ * SUCH DAMAGE.
++ */
++ 
++#ifndef _SYSCALL_H
++#define _SYSCALL_H
++#include <stdint.h>
++#include <syscall_def.h>
++#include <kunistd.h>
++#include <types.h>
++#include <kstdio.h>
++#include <cm4.h>
++#include <kmain.h>
++#include <stdarg.h>
++#include <system_config.h>
++#include <sys_bus_matrix.h>
++
++void syscall(uint32_t *args);
++#endif
++
+diff -ruN duos24/src/kern/include/syscall.h duos24_lab3/src/kern/include/syscall.h
+--- duos24/src/kern/include/syscall.h	2022-10-28 14:54:00.000000000 +0600
++++ duos24_lab3/src/kern/include/syscall.h	1970-01-01 06:00:00.000000000 +0600
+@@ -1,36 +0,0 @@
+-/*
+- * Copyright (c) 2022 
+- * Computer Science and Engineering, University of Dhaka
+- * Credit: CSE Batch 25 (starter) and Prof. Mosaddek Tushar
+- *
+- * Redistribution and use in source and binary forms, with or without
+- * modification, are permitted provided that the following conditions
+- * are met:
+- * 1. Redistributions of source code must retain the above copyright
+- *    notice, this list of conditions and the following disclaimer.
+- * 2. Redistributions in binary form must reproduce the above copyright
+- *    notice, this list of conditions and the following disclaimer in the
+- *    documentation and/or other materials provided with the distribution.
+- * 3. Neither the name of the University nor the names of its contributors
+- *    may be used to endorse or promote products derived from this software
+- *    without specific prior written permission.
+- *
+- * THIS SOFTWARE IS PROVIDED BY THE UNIVERSITY AND CONTRIBUTORS ``AS IS'' AND
+- * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+- * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+- * ARE DISCLAIMED.  IN NO EVENT SHALL THE UNIVERSITY OR CONTRIBUTORS BE LIABLE
+- * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+- * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+- * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+- * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+- * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+- * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+- * SUCH DAMAGE.
+- */
+- 
+-#ifndef _SYSCALL_H
+-#define _SYSCALL_H
+-#include <stdint.h>
+-void syscall(uint16_t);
+-#endif
+-
+diff -ruN duos24/src/kern/include/UsartRingBuffer.h duos24_lab3/src/kern/include/UsartRingBuffer.h
+--- duos24/src/kern/include/UsartRingBuffer.h	2024-09-19 16:15:58.000000000 +0600
++++ duos24_lab3/src/kern/include/UsartRingBuffer.h	2025-03-17 02:25:31.332770444 +0600
+@@ -125,6 +125,18 @@
+ 
+ int32_t update_tail(UART_HandleTypeDef *,uint32_t);
+ 
++
++
++
++/*later added by faiak */
++void DRV_USART_INIT(USART_TypeDef* usart);
++void UART_SendChar(USART_TypeDef *usart,uint8_t c);
++void _USART_WRITE(USART_TypeDef *usart,uint8_t *s);
++uint8_t _USART_READ(USART_TypeDef* usart,uint8_t *buff,uint16_t size);
++uint8_t UART_GetChar(USART_TypeDef *usart);
++uint8_t _USART_READ_STR(USART_TypeDef* usart,uint8_t *buff,uint16_t size);
++
++
+ void debug_buffer(UART_HandleTypeDef *);
+ #ifdef __cplusplus
+ }
+diff -ruN duos24/src/kern/kmain/kmain.c duos24_lab3/src/kern/kmain/kmain.c
+--- duos24/src/kern/kmain/kmain.c	2024-09-30 23:19:01.000000000 +0600
++++ duos24_lab3/src/kern/kmain/kmain.c	2025-03-17 02:49:20.019478177 +0600
+@@ -36,14 +36,683 @@
+ #include <kstdio.h>
+ #include <sys_rtc.h>
+ #include <kstring.h>
++#include <stm32_startup.h>
++#include <syscall_def.h>
++#include <types.h>
++#include <times.h>
++#include <unistd.h>
+ #ifndef DEBUG
+ #define DEBUG 1
+ #endif
++
++/*
++typedef struct task_tcb{
++    uint32_t magic_number; //here it is 0xFECABAA0
++    uint16_t task_id; //a unsigned 16 bit integer starting from 1000
++    void *psp; //task stack pointer or stackframe address
++    uint16_t status; //task status: running, waiting, ready, killed, or terminated
++    uint32_t execution_time; //total execution time (in ms)
++    uint32_t waiting_time; //total waiting time (in ms)
++    uint32_t digital_sinature; //current value is 0x00000001
++}TCB_TypeDef;
++
++*/
++
++/****************** ********************/
++
++volatile uint32_t QUEUE_SIZE_P = 3;
++volatile uint32_t CURR_TASK_P = 0;
++volatile uint16_t TASK_ID = 1000;
++
++volatile TCB_TypeDef READY_QUEUE[MAX_QUEUE_SIZE_P];
++
++// void PUSH_tcb(TCB_TypeDef* tcb, void(*func_ptr)(void))
++// {
++//     for (uint32_t i = 0; i < QUEUE_SIZE_P; i++)
++//     {
++
++//         if (READY_QUEUE[i].task_id == tcb->task_id)
++//         {
++//             break;
++//         }
++//         else if (i == QUEUE_SIZE_P - 1)
++//         {
++//             kprintf("Queue is full\n");
++//             return;
++//         }
++//         else if(READY_QUEUE[i].status == KILLED || READY_QUEUE[i].status == TERMINATED)
++//         {
++//             create_tcb(READY_QUEUE + i, (void*) func_ptr, tcb->psp);
++//             break;
++//         }
++//     }
++// }
++// void POP_tcb(TCB_TypeDef* tcb)
++// {
++//     for (uint32_t i = 0; i < QUEUE_SIZE_P; i++)
++//     {
++//         if (READY_QUEUE[i] == tcb)
++//         {
++//             READY_QUEUE[i] = NULL;
++//             break;
++//         }
++//     }
++// }
++
++void create_tcb(TCB_TypeDef *tcb, void (*func_ptr)(void), uint32_t *stack_start)
++{
++    tcb->magic_number = MAGIC_NUMBER;
++    tcb->task_id = TASK_ID;
++    TASK_ID++;
++    tcb->status = READY;
++    tcb->execution_time = 0;
++    tcb->waiting_time = 0;
++    tcb->digital_sinature = DIGITAL_SIGNATURE;
++
++    tcb->psp = stack_start;
++    *(--tcb->psp) = 0x01000000;         // xPSR
++    *(--tcb->psp) = (uint32_t)func_ptr; // PC
++    *(--tcb->psp) = 0xFFFFFFFD;         // LR
++
++    for (uint32_t i = 0; i < 13; i++)
++    {
++        *(--tcb->psp) = 0;
++    }
++
++    __ISB();
++}
++
++/**************** *********************/
++
++uint32_t *psp_stack_addresses[2];
++uint32_t size = 2;
++uint32_t CURR_TASK = 0;
++
++void __set_user_mode(void)
++{
++
++    uint32_t psp_stack[1024];
++    PSP_Init(psp_stack + 1024);
++    asm volatile(
++        ".global PSP_Init\n"
++        "PSP_Init:\n"
++        "msr psp, r0\n"
++        "mov r0, #3\n"
++        "msr control, r0\n"
++        "isb 0xf\n"
++        :
++        :
++        : "memory");
++}
++
++// attribute = naked -> active
++// attribute = weak -> not active
++// #ifndef RR
++// #define RR
++// void __attribute__((naked)) PendSV_Handler(void)
++// {
++//     // Clear all pending interrupts
++//     SCB->ICSR |= (1 << 27);
++
++//     // kprintf("PendSV_Handler\n");
++
++//     // save current context
++//     asm volatile(
++//         "mrs r0, psp\n"
++//         "isb 0xf\n"
++//         "stmdb r0!, {r4-r11}\n");
++
++//     asm volatile("mov %0, r0\n"
++//                  : "=r"(psp_stack_addresses[CURR_TASK])
++//                  :);
++
++//     __DSB();
++//     __ISB();
++//     /*---------------------------------------------*/
++
++//     CURR_TASK = (CURR_TASK + 1) % size;
++
++//     asm volatile(
++//         "mov r0, %0"
++//         :
++//         : "r"((uint32_t)psp_stack_addresses[CURR_TASK]));
++//     asm volatile(
++//         "ldmia r0!,{r4-r11}\n"
++//         "msr psp, r0\n"
++//         "isb 0xf\n"
++//         "bx lr\n");
++// }
++// #endif
++
++void __attribute__((noreturn)) sleep_state(void)
++{
++    // set_pending(0);
++
++    __set_pending(0);
++
++    while (1)
++    {
++        __WFI(); // Wait For Interrupt (Stops CPU Until An Interrupt Occurs)
++    }
++}
++
++#ifndef RR
++#define RR
++void __attribute__((naked)) PendSV_Handler(void)
++{
++    // Clear all pending interrupts
++    SCB->ICSR |= (1 << 27);
++
++    // kprintf("PendSV_Handler\n");
++
++    // save current context
++    if (READY_QUEUE[CURR_TASK_P].status == RUNNING)
++    {
++        READY_QUEUE[CURR_TASK_P].status = READY;
++        asm volatile(
++            "mrs r0, psp\n"
++            "isb 0xf\n"
++            "stmdb r0!, {r4-r11}\n");
++
++        asm volatile("mov %0, r0\n"
++                     : "=r"(READY_QUEUE[CURR_TASK_P].psp)
++                     :);
++    }
++    __DSB();
++    __ISB();
++    /*---------------------------------------------*/
++
++    // CURR_TASK_P = (CURR_TASK_P + 1) % QUEUE_SIZE_P;
++
++    uint32_t chosen_task = MAX_QUEUE_SIZE_P;
++    uint32_t count = 0;
++
++    for (int i = (CURR_TASK_P + 1) % QUEUE_SIZE_P;; i = (i + 1) % QUEUE_SIZE_P)
++    {
++
++        if (READY_QUEUE[i].status == READY)
++        {
++            chosen_task = i;
++            break;
++        }
++
++        count++;
++
++        if (count >= MAX_QUEUE_SIZE_P)
++        {
++            break;
++        }
++    }
++
++    if (chosen_task == 5)
++    { // finished
++
++        // while(1);
++        // uint32_t new_psp_stack[1024];
++        // uint32_t* new_psp = (uint32_t*) new_psp_stack + 1024;
++        // *(--new_psp) = 0x01000000;      // xPSR
++        // *(--new_psp) = (uint32_t)sleep_state; // PC
++        // *(--new_psp) = 0xFFFFFFFD;      // LR
++
++        // for (uint32_t i = 0; i < 13; i++)
++        // {
++        //     *(--new_psp) = 0;
++        // }
++
++        __set_pending(0);
++        // __asm volatile(
++        //     "mov r0, %0\n"
++        //     "msr psp, r0\n"
++        //     "isb 0xf\n"
++        //     :
++        //     : "r" (new_psp)
++        // );
++
++        __DSB();
++        __ISB();
++
++        // __asm volatile("bx lr\n");
++        // sleep_state();
++
++        asm volatile("bl sleep_state");
++    }
++    else
++    {
++        CURR_TASK_P = chosen_task;
++    }
++
++    __DSB();
++    __ISB();
++
++    asm volatile(
++        "mov r0, %0"
++        :
++        : "r"((uint32_t)READY_QUEUE[CURR_TASK_P].psp));
++
++    READY_QUEUE[CURR_TASK_P].status = RUNNING;
++
++    asm volatile(
++        "ldmia r0!,{r4-r11}\n"
++        "msr psp, r0\n"
++        "isb 0xf\n"
++        "bx lr\n");
++}
++#endif
++
++// target extended-remote localhost:3333
++
++void yield(void)
++{
++    __ISB();
++
++    asm volatile("PUSH {r4-r11}");
++    asm volatile("svc %0" : : "i"(SYS_yield));
++    asm volatile("POP {r4-r11}");
++    __ISB();
++}
++
++void task_exit(void)
++{
++    // READY_QUEUE[CURR_TASK_P].status = KILLED;
++
++    __ISB();
++
++    TCB_TypeDef *tcb = READY_QUEUE + CURR_TASK_P;
++    __asm volatile(
++        "MOV R2, %0\n"
++        :
++        : "r"(tcb));
++    asm volatile("PUSH {r4-r11}");
++    asm volatile("svc %0" : : "i"(SYS__exit));
++    asm volatile("POP {r4-r11}");
++
++    kprintf("task exited : %d\n", READY_QUEUE[CURR_TASK_P].task_id);
++
++    __DSB();
++    __ISB();
++
++    yield();
++}
++
++void task0(void)
++{
++    for (uint32_t i = 0; i < 100; i++)
++    {
++        kprintf("Task 0 call %d\n", i);
++    }
++
++    kprintf("task 0 finished\n");
++
++    // while(1);
++    task_exit();
++
++    while (1)
++        ;
++}
++
++void task1(void)
++{
++    for (uint32_t i = 0; i < 100; i++)
++    {
++        kprintf("Task 1 call %d\n", i);
++    }
++
++    kprintf("task 1 finished\n");
++    task_exit();
++
++    while (1)
++        ;
++}
++
++void task2(void)
++{
++    for (uint32_t i = 0; i < 100; i++)
++    {
++        kprintf("Task 2 call %d\n", i);
++    }
++
++    kprintf("task 2 finished\n");
++    task_exit();
++
++    while (1)
++        ;
++}
++
++void task_for_fork(void)
++{
++
++    kprintf("inside task for fork\n");
++
++    int pid = fork(&pid); // pc
++    if (pid == 0)
++    {
++        kprintf("child process\n");
++        kprintf("pid returned: %d\n", pid);
++        // while(1);
++    }
++    else
++    {
++
++        kprintf("parent process\n");
++        kprintf("pid returned: %d\n", pid);
++
++        // while(1);
++    }
++
++    task_exit();
++}
++
++void init_scheduler_for_fork(void)
++{
++    CURR_TASK_P = 0;
++    QUEUE_SIZE_P = 1;
++
++    uint32_t psp_parent_task[1024];
++
++    create_tcb(READY_QUEUE + CURR_TASK_P, (void *)task_for_fork, (uint32_t *)(psp_parent_task + 1024));
++    QUEUE_SIZE_P++;
++
++    // __set_pending(1);
++
++    READY_QUEUE[CURR_TASK_P].status = RUNNING;
++
++    // kprintf("pid : %d\n", READY_QUEUE[CURR_TASK_P].task_id);
++
++    start_task((uint32_t)(READY_QUEUE[CURR_TASK_P].psp));
++}
++
++void start_task(uint32_t psp)
++{
++
++    asm volatile("MOV R0, %0"
++                 :
++                 : "r"(psp));
++    asm volatile("PUSH {r4-r11}");
++    asm volatile("svc %0" : : "i"(SYS_start));
++    asm volatile("POP {r4-r11}");
++}
++
++void set_pending(uint8_t value)
++{
++    asm volatile("MOV R0, %0"
++                 :
++                 : "r"(value));
++    asm volatile("PUSH {r4-r11}");
++    asm volatile("svc %0" : : "i"(SYS_set_pending));
++    asm volatile("POP {r4-r11}");
++}
++
++int getPID(void)
++{
++    int pid = 0;
++    asm volatile("PUSH {r4-r11}");
++    asm volatile("svc %0" : : "i"(SYS_getpid));
++    asm volatile("POP {r4-r11}");
++
++    asm volatile("MOV %0, R0"
++                 : "=r"(pid));
++
++    return pid;
++}
++
++int fork(uint32_t *pid)
++{
++
++    *(pid) = (uint32_t)0;
++
++    asm volatile("PUSH {r4-r11}");
++    asm volatile("svc %0" : : "i"(SYS_fork));
++    asm volatile("POP {r4-r11}");
++
++    asm volatile("MOV R0, 0");
++
++    // yield(); // i want to return to here after fork of child process
++
++    __DSB();
++    __ISB();
++
++    asm volatile("MOV %0, R2"
++                 : "=r"(*pid));
++
++    if (CURR_TASK_P == 0)
++    {
++        return *pid;
++    }
++    else
++    {
++        *pid = 0;
++        return 0;
++    }
++
++    return *pid;
++}
++
++void init_tasks(void)
++{
++
++    uint64_t psp0_stack[1024], psp1_stack[1024];
++
++    psp_stack_addresses[0] = psp0_stack + 1024;
++
++    kprintf("psp0_stack: %x\n", psp_stack_addresses[0]);
++    *(--psp_stack_addresses[0]) = 0x01000000;      // xPSR
++    *(--psp_stack_addresses[0]) = (uint32_t)task0; // PC
++    *(--psp_stack_addresses[0]) = 0xFFFFFFFD;      // LR
++
++    for (uint32_t i = 0; i < 13; i++)
++    {
++        *(--psp_stack_addresses[0]) = 0;
++    }
++
++    kprintf("psp0_stack: %x\n", psp_stack_addresses[0]);
++
++    psp_stack_addresses[1] = psp1_stack + 1024;
++    *(--psp_stack_addresses[1]) = 0x01000000;      // xPSR
++    *(--psp_stack_addresses[1]) = (uint32_t)task1; // PC
++    *(--psp_stack_addresses[1]) = 0xFFFFFFFD;      // LR
++
++    for (uint32_t i = 0; i < 13; i++)
++    {
++        *(--psp_stack_addresses[1]) = 0;
++    }
++
++    set_pending(1);
++
++    start_task(psp_stack_addresses[CURR_TASK]);
++}
++
++void init_scheduler(void)
++{
++    uint64_t psp0_stack[1024], psp1_stack[1024], psp2_stack[1024];
++
++    kprintf("psp0_stack: %x\n", psp0_stack + 1024);
++    kprintf("psp1_stack: %x\n", psp1_stack + 1024);
++    kprintf("psp2_stack: %x\n", psp2_stack + 1024);
++
++    create_tcb(READY_QUEUE + CURR_TASK_P, (void *)task0, psp0_stack + 1024);
++    CURR_TASK_P = (CURR_TASK_P + 1) % QUEUE_SIZE_P;
++    create_tcb(READY_QUEUE + CURR_TASK_P, (void *)task1, psp1_stack + 1024);
++    CURR_TASK_P = (CURR_TASK_P + 1) % QUEUE_SIZE_P;
++    create_tcb(READY_QUEUE + CURR_TASK_P, (void *)task2, psp2_stack + 1024);
++    CURR_TASK_P = (CURR_TASK_P + 1) % QUEUE_SIZE_P;
++
++    kprintf("psp0_stack: %x\n", READY_QUEUE[0].psp);
++    kprintf("psp1_stack: %x\n", READY_QUEUE[1].psp);
++    kprintf("psp2_stack: %x\n", READY_QUEUE[2].psp);
++
++    set_pending(1);
++
++    READY_QUEUE[CURR_TASK_P].status = RUNNING;
++
++    start_task((uint32_t)(READY_QUEUE[CURR_TASK_P].psp));
++}
++
++///// for execve /////
++
++volatile file_entry_t file_list[MAX_FILES];
++volatile uint32_t file_count = 0;
++
++int find_file(char *filename)
++{
++    for (uint32_t i = 0; i < file_count; i++)
++    {
++        if (strcomp((uint8_t *)file_list[i].name, (uint8_t *)filename) == 0)
++        {
++            return i;
++        }
++    }
++    return -1;
++}
++
++int execve(char *filename, char *argv[], char *envp[])
++{
++    int return_val = 0;
++    __asm volatile(
++        "mov r0, %0\n"
++        "mov r1, %1\n"
++        "mov r2, %2\n"
++        "push {r4,r11}\n"
++        "svc %4\n"
++        "pop {r4,r11}\n"
++        "mov %3, r0\n"
++        : "=r"(filename), "=r"(argv), "=r"(envp), "=r"(return_val)
++        : "i"(SYS_execv));
++
++    return return_val;
++}
++
++void file_A(void)
++{
++    kprintf("A started\n");
++
++    char *argv[] = {"PRINT_B", "Hello World", NULL};
++    char *envp[] = {NULL};
++
++    int ret = execve(argv[0], argv, envp);
++
++    if (ret == -1)
++    {
++        kprintf("execve failed\n");
++    }
++
++    kprintf("A finished -- this should not be printed\n"); // should not be printed
++    task_exit();
++}
++
++void file_B(void)
++{
++    kprintf("B started\n");
++
++    kprintf("B finished\n"); // should not be printed
++    task_exit();
++}
++
++void file_C(void)
++{
++    kprintf("C started\n");
++
++    kprintf("C finished\n"); // should not be printed
++    task_exit();
++}
++
++void init_file_system(void)
++{
++    file_entry_t file1;
++    file1.address = (uint32_t *)file_B;
++    file1.size = 1024;
++    file1.mode = O_RDONLY;
++    strcopy((uint8_t *)file1.name, (const uint8_t *)"PRINT_B");
++    file_list[file_count++] = file1;
++
++    file_entry_t file2;
++    file2.address = (uint32_t *)file_C;
++    file2.size = 1024;
++    file2.mode = O_RDONLY;
++    strcopy((uint8_t *)file2.name, (const uint8_t *)"PRINT_C");
++    file_list[file_count++] = file2;
++
++    __ISB();
++}
++
++void init_task_for_execv(void)
++{
++    QUEUE_SIZE_P = 1;
++    CURR_TASK_P = 0;
++
++    uint32_t psp_stack[1024];
++
++    create_tcb(READY_QUEUE + CURR_TASK_P, (void *)file_A, psp_stack + 1024);
++
++    READY_QUEUE[CURR_TASK_P].status = RUNNING;
++
++    start_task((uint32_t)(READY_QUEUE[CURR_TASK_P].psp));
++}
++
+ void kmain(void)
+ {
+     __sys_init();
++
++    init_file_system();
++
++    __NVIC_SetPriority(SVCall_IRQn, 0x1);
++    NVIC_EnableIRQ(SVCall_IRQn);
++    __NVIC_SetPriority(PendSV_IRQn, 0xFF);
++    NVIC_EnableIRQ(PendSV_IRQn);
++    __NVIC_SetPriority(SysTick_IRQn, 0xFF);
++    NVIC_EnableIRQ(SysTick_IRQn);
++
++    __ISB();
++
++    kprintf("OS Started\n");
++
++    __set_user_mode();
++
++    // umain();
++
++    // char c;
++    // kscanf("%c", &c);
++
++     kprintf("working by Md.Sakib Ur Rahman,Roll:37 Md.Shoriful Islam Rayhan,roll:41");
++
++    // init_tasks();
++
++    init_scheduler(); // round robin scheduler /// for a round robin example
++
++    // init_scheduler_for_fork(); // for a forking example
++
++    // init_task_for_execv(); // for execv example
++
++    // typedef struct student
++    // {
++    //     char name[20];
++    //     int id;
++    //     float cgpa;
++    // } student;
++
++    // student *s1 = (struct student *)du_malloc(sizeof(student));
++    // s1->id = 1;
++    // s1->cgpa = 3.5;
++
++    // kprintf("Student ID: %d\n", s1->id);
++    // kprintf("Student CGPA: %f\n", s1->cgpa);
++
++    // du_free(s1);
++
++    // kprintf("Student ID: %d\n", s1->id);
++    // kprintf("Student CGPA: %f\n", s1->cgpa);
++
++    // uint8_t *ptr = du_malloc(20);
++
++    // kprintf("ptr: %x\n", ptr);
++
++    // char c;
++    // du_scanf("%c", &c);
++
++    // du_printf("You entered: %c\n", c);
++
++    // du_printf("Hello from userland\n");
++
+     while (1)
+     {
+-      
+     }
+ }
+diff -ruN duos24/src/kern/lib/kern/sys_init.c duos24_lab3/src/kern/lib/kern/sys_init.c
+--- duos24/src/kern/lib/kern/sys_init.c	2024-10-01 00:33:03.000000000 +0600
++++ duos24_lab3/src/kern/lib/kern/sys_init.c	2025-03-17 02:25:31.339770649 +0600
+@@ -53,7 +53,7 @@
+ 	__enable_fpu(); //enable FPU single precision floating point unit
+ 	__ISB();
+ 	NVIC_SetPriorityGrouping(NVIC_PRIORITYGROUP_4);
+-	__SysTick_init(1000);	//enable systick for 1ms
++	__SysTick_init(7000);	//enable systick for 1ms
+ 	//SYS_RTC_init();
+ 	SerialLin2_init(__CONSOLE,0);
+ 	SerialLin6_init(&huart6,0);
+@@ -61,17 +61,23 @@
+ 	Ringbuf_init(&huart6);
+ 	ConfigTimer2ForSystem();
+ 	__ISB();
++
++	heap_init();  ////by faiak
++	
++	__DSB();
++	__ISB();
++
+ 	#ifdef DEBUG
+-	kprintf("\n************************************\r\n");
+-	kprintf("Booting Machine Intelligence System 1.0 .....\r\n");
+-	kprintf("Copyright (c) 2024, Prof. Mosaddek Tushar, CSE, DU\r\n");
+-	kprintf("CPUID %x\n", SCB->CPUID);
+-	kprintf("OS Version: 2024.1.0.0\n");
+-	kprintf("Time Elapse %d ms\n",__getTime());
+-	kprintf("*************************************\r\n");
+-	kprintf("# ");
++	// kprintf("\n************************************\r\n");
++	// kprintf("Booting Machine Intelligence System 1.0 .....\r\n");
++	// kprintf("Copyright (c) 2024, Prof. Mosaddek Tushar, CSE, DU\r\n");
++	// kprintf("CPUID %x\n", SCB->CPUID);
++	// kprintf("OS Version: 2024.1.0.0\n");
++	// kprintf("Time Elapse %d ms\n",__getTime());
++	// kprintf("*************************************\r\n");
++	// kprintf("# ");
+ 	show_system_info();
+-	display_group_info();
++	// display_group_info();
+ 	#endif
+ }
+ 
+@@ -79,6 +85,42 @@
+ * Do not remove it is for debug purpose
+ */
+ 
++
++/* by faiak */
++
++
++heap_info *heap = NULL;
++
++void heap_init(void)
++{
++
++	// Static or global declaration for heap_info
++	static heap_info heap_data;	  // Allocate memory for heap_info
++	heap = &heap_data; // Initialize heap pointer to a valid address
++
++	// // Initialize heap start and metadata
++	heap->start = (heap_chunk *)&_sheap; // Point to the start of the heap
++	// heap->start->size = 0;				 // Initial size of the first chunk
++	// heap->start->isUse = 0;				 // Mark it as free
++	// heap->start->next = NULL;			 // No next chunk initially
++
++	// Calculate available heap size
++	heap->available = ((uint32_t)&_eheap - (uint32_t)&_sheap) ;
++
++	// Initialize the free list and current pointer
++	heap->free_list = NULL;	  // No free list yet
++	heap->curr = NULL; // Current pointer points to start
++
++	// Debug output
++	kprintf("Heap start: %x\n", heap->start);
++	kprintf("Heap current: %x\n", heap->curr);
++	kprintf("Heap size: %d bytes\n", heap->available);
++}
++
++
++/************/
++
++
+ void SYS_ROUTINE(void)
+ {
+ 	__debugRamUsage();
+@@ -90,6 +132,6 @@
+ */
+ void display_group_info(void)
+ {
+-	kprintf("Empty Group!! -- Update Now\n")
++	kprintf("Empty Group!! -- Update Now\n");
+ 
+ }
+diff -ruN duos24/src/kern/lib/kstdio.c duos24_lab3/src/kern/lib/kstdio.c
+--- duos24/src/kern/lib/kstdio.c	2024-09-08 14:25:52.000000000 +0600
++++ duos24_lab3/src/kern/lib/kstdio.c	2025-03-17 02:25:31.339770649 +0600
+@@ -45,6 +45,133 @@
+ * %f for floating point number
+ */
+ // Simplified version of printf
++// void kprintf(char *format,...)
++// {
++// //write your code here
++// 	char *tr;
++// 	uint32_t i;
++// 	uint8_t *str;
++// 	va_list list;
++// 	double dval;
++// 	//uint32_t *intval;
++// 	va_start(list,format);
++// 	for(tr = format;*tr != '\0';tr++)
++// 	{
++// 		while(*tr != '%' && *tr!='\0')
++// 		{
++// 			Uart_write(*tr,__CONSOLE);
++// 			tr++;
++// 		}
++// 		if(*tr == '\0') break;
++// 		tr++;
++// 		switch (*tr)
++// 		{
++// 		case 'c': i = va_arg(list,int);
++// 			Uart_write(i,__CONSOLE);
++// 			break;
++// 		case 'd': i = va_arg(list,int);
++// 			if(i<0)
++// 			{
++// 				Uart_write('-',__CONSOLE);
++// 				i=-i;				
++// 			}
++// 			Uart_sendstring((char*)convert(i,10),__CONSOLE);
++// 			break;
++// 		case 'o': i = va_arg(list,int);
++// 			if(i<0)
++// 			{
++// 				Uart_write('-',__CONSOLE);
++// 				i=-i;				
++// 			}
++// 			Uart_sendstring((char*)convert(i,8),__CONSOLE);
++// 			break;
++// 		case 'x': i = va_arg(list,int);
++// 			/*if(i<0)
++// 			{
++// 				Uart_write('-',__CONSOLE);
++// 				i=-i;				
++// 			}*/
++// 			Uart_sendstring((char*)convertu32(i,16),__CONSOLE);
++// 			break;
++// 		case 'u':	
++// 		case 's': str = va_arg(list,uint8_t*);
++// 			Uart_sendstring((char*)str,__CONSOLE);
++// 			break;
++// 		case 'f': 
++// 			dval = va_arg(list,double);
++// 			Uart_sendstring((char*)float2str(dval),__CONSOLE);
++// 			break;	
++// 		default:
++// 			break;
++// 		}
++// 	}
++// 	va_end(list);
++// }
++
++// void putstr(const uint8_t *str,size_t size)
++// {
++// 	for(uint32_t i=0;i<size;i++)
++// 	{
++// 		Uart_write(str[i],__CONSOLE);
++// 	}
++// }
++
++// // Simplified version of scanf
++// void kscanf(char *format,...)
++// {
++// //write your code here
++// 	va_list list;
++// 	char *ptr;
++// 	uint8_t buff[50];
++// 	uint8_t *str;
++// 	int len;
++// 	ptr=format;
++// 	va_start(list,format);
++// 	while (*ptr)
++// 	{
++// 		if(*ptr == '%') //looking for format of an input
++// 		{
++// 			ptr++;
++// 			switch (*ptr)
++// 			{
++// 			case 'c': //charater
++// 				*(uint8_t*)va_arg(list,uint8_t*)=Uart_read(__CONSOLE);
++// 				break;
++// 			case 'd': //integer number 
++// 				//uart_USART_READ_STR(USART2,buff,50); 
++// 				*(uint32_t*)va_arg(list,uint32_t*)=__str_to_num(buff,10);	
++// 				break;
++// 			case 's': //string without spaces
++// 				//_USART_READ_STR(USART2,buff,50); 
++// 				str = va_arg(list,uint8_t*);
++// 				len = __strlen(buff);
++// 				for(int u = 0; u<=len; u++)	// copy from buff to user defined char pointer (i.e string)
++// 					str[u] = buff[u];	
++// 				break;
++// 			case 'x': //hexadecimal number
++// 				//_USART_READ_STR(USART2,buff,50); 
++// 				*(int*)va_arg(list,uint32_t*)=__str_to_num(buff,16);	
++// 				break;	
++// 			case 'o': //octal number
++// 				//_USART_READ_STR(USART2,buff,50); 
++// 				*(uint32_t*)va_arg(list,uint32_t*)=__str_to_num(buff,8);	
++// 				break;	
++// 			case 'f': //floating point number
++// 				//_USART_READ_STR(USART2,buff,50);
++// 				//*(uint32_t*)va_arg(list,double*) = __str_to_num(buff,10);
++// 				*(float*)va_arg(list,float*) = str2float(buff);	// Works for float but not for double !!!
++// 				break;	
++// 			default: //rest not recognized
++// 				break;
++// 			}
++// 		}
++// 		ptr++;
++// 	}
++// 	va_end(list);
++// }
++
++
++
+ void kprintf(char *format,...)
+ {
+ //write your code here
+@@ -55,51 +182,51 @@
+ 	double dval;
+ 	//uint32_t *intval;
+ 	va_start(list,format);
++
+ 	for(tr = format;*tr != '\0';tr++)
+ 	{
+ 		while(*tr != '%' && *tr!='\0')
+ 		{
+-			Uart_write(*tr,__CONSOLE);
+-			tr++;
++		UART_SendChar(USART2,*tr);
++		tr++;
+ 		}
+ 		if(*tr == '\0') break;
+ 		tr++;
+ 		switch (*tr)
+ 		{
+ 		case 'c': i = va_arg(list,int);
+-			Uart_write(i,__CONSOLE);
++			UART_SendChar(USART2,i);
+ 			break;
+ 		case 'd': i = va_arg(list,int);
+ 			if(i<0)
+ 			{
+-				Uart_write('-',__CONSOLE);
++				UART_SendChar(USART2,'-');
+ 				i=-i;				
+ 			}
+-			Uart_sendstring((char*)convert(i,10),__CONSOLE);
++			_USART_WRITE(USART2,(uint8_t*)convert(i,10));
+ 			break;
+ 		case 'o': i = va_arg(list,int);
+ 			if(i<0)
+ 			{
+-				Uart_write('-',__CONSOLE);
++				UART_SendChar(USART2,'-');
+ 				i=-i;				
+ 			}
+-			Uart_sendstring((char*)convert(i,8),__CONSOLE);
++			_USART_WRITE(USART2,(uint8_t*)convert(i,8));
+ 			break;
+ 		case 'x': i = va_arg(list,int);
+-			/*if(i<0)
++			if(i<0)
+ 			{
+-				Uart_write('-',__CONSOLE);
++				UART_SendChar(USART2,'-');
+ 				i=-i;				
+-			}*/
+-			Uart_sendstring((char*)convertu32(i,16),__CONSOLE);
++			}
++			_USART_WRITE(USART2,(uint8_t*)convert(i,16));
+ 			break;
+-		case 'u':	
+ 		case 's': str = va_arg(list,uint8_t*);
+-			Uart_sendstring((char*)str,__CONSOLE);
++			_USART_WRITE(USART2,str);
+ 			break;
+ 		case 'f': 
+ 			dval = va_arg(list,double);
+-			Uart_sendstring((char*)float2str(dval),__CONSOLE);
++			_USART_WRITE(USART2,(uint8_t*)float2str(dval));
+ 			break;	
+ 		default:
+ 			break;
+@@ -108,60 +235,49 @@
+ 	va_end(list);
+ }
+ 
+-void putstr(const uint8_t *str,size_t size)
+-{
+-	for(uint32_t i=0;i<size;i++)
+-	{
+-		Uart_write(str[i],__CONSOLE);
+-	}
+-}
+-
+ // Simplified version of scanf
+-void kscanf(char *format,...)
++void  kscanf(char *format,...)
+ {
+ //write your code here
+ 	va_list list;
+ 	char *ptr;
+ 	uint8_t buff[50];
+-	uint8_t *str;
+-	int len;
+ 	ptr=format;
+ 	va_start(list,format);
+ 	while (*ptr)
+ 	{
++		/* code */
+ 		if(*ptr == '%') //looking for format of an input
+ 		{
+ 			ptr++;
+ 			switch (*ptr)
+ 			{
+-			case 'c': //charater
+-				*(uint8_t*)va_arg(list,uint8_t*)=Uart_read(__CONSOLE);
++			case /* constant-expression */ 'c': //charater
++				/* code */
++				*(uint8_t*)va_arg(list,uint8_t*)=UART_GetChar(USART2);
+ 				break;
+ 			case 'd': //integer number 
+-				//uart_USART_READ_STR(USART2,buff,50); 
++				_USART_READ_STR(USART2,buff,50); 
+ 				*(uint32_t*)va_arg(list,uint32_t*)=__str_to_num(buff,10);	
+ 				break;
+-			case 's': //string without spaces
+-				//_USART_READ_STR(USART2,buff,50); 
+-				str = va_arg(list,uint8_t*);
+-				len = __strlen(buff);
+-				for(int u = 0; u<=len; u++)	// copy from buff to user defined char pointer (i.e string)
+-					str[u] = buff[u];	
++			case 's': //need to update -- string
++				_USART_READ_STR(USART2,buff,50); 
++				*(uint32_t*)va_arg(list,uint32_t*)=__str_to_num(buff,10);	
+ 				break;
+ 			case 'x': //hexadecimal number
+-				//_USART_READ_STR(USART2,buff,50); 
+-				*(int*)va_arg(list,uint32_t*)=__str_to_num(buff,16);	
++				_USART_READ_STR(USART2,buff,50); 
++				*(uint32_t*)va_arg(list,uint32_t*)=__str_to_num(buff,16);	
+ 				break;	
+ 			case 'o': //octal number
+-				//_USART_READ_STR(USART2,buff,50); 
++				_USART_READ_STR(USART2,buff,50); 
+ 				*(uint32_t*)va_arg(list,uint32_t*)=__str_to_num(buff,8);	
+ 				break;	
+ 			case 'f': //floating point number
+-				//_USART_READ_STR(USART2,buff,50);
+-				//*(uint32_t*)va_arg(list,double*) = __str_to_num(buff,10);
+-				*(float*)va_arg(list,float*) = str2float(buff);	// Works for float but not for double !!!
++				_USART_READ_STR(USART2,buff,50); 
++				*(uint32_t*)va_arg(list,double*)=__str_to_num(buff,10);	
+ 				break;	
+ 			default: //rest not recognized
++				
+ 				break;
+ 			}
+ 		}
+@@ -169,3 +285,4 @@
+ 	}
+ 	va_end(list);
+ }
++
+diff -ruN duos24/src/kern/lib/kunistd.c duos24_lab3/src/kern/lib/kunistd.c
+--- duos24/src/kern/lib/kunistd.c	2022-10-27 08:47:00.000000000 +0600
++++ duos24_lab3/src/kern/lib/kunistd.c	2025-03-17 02:25:31.340770678 +0600
+@@ -30,3 +30,281 @@
+ #include <kunistd.h>
+ /* Add your functions here */
+ 
++void __sys_start_task(uint32_t psp)
++{
++	asm volatile ("MOV R0, %0"
++		:
++		:"r" (psp)
++	);
++	asm volatile ("LDMIA R0!,{R4-R11}");
++	asm volatile ("MSR PSP, R0");
++	asm volatile ("ISB 0xf" ::: "memory");
++	asm volatile ("MOV LR, 0xFFFFFFFD"); ///why this line is needed?
++	asm volatile ("BX LR");
++}
++
++
++int __sys_fork(uint32_t* parents_psp){
++
++	uint32_t psp_stack_for_child[1024];
++
++	uint32_t* psp_for_child = psp_stack_for_child + 1024;
++
++	// kprintf("next pc: %x\n", next_pc);
++
++	// __sys_start_task((uint32_t)parents_psp);
++
++	// asm volatile ("MOV R0, %0"
++	// 	:
++	// 	:"r" ((uint32_t)parents_psp)
++	// );
++
++	// asm volatile ("MSR PSP, R0");
++	// asm volatile ("ISB 0xf" ::: "memory");
++	// asm volatile ("MOV LR, 0xFFFFFFFD"); ///why this line is needed?
++	// asm volatile ("BX LR");
++
++	
++
++	// kprintf("psp_child_stack: %x\n", READY_QUEUE[CURR_TASK_P + 1].psp);
++
++	// kprintf("psp_parent_stack: %x\n", READY_QUEUE[CURR_TASK_P].psp);
++
++	// kprintf("psp_for_parent svc: %x\n", parents_psp );
++
++	parents_psp[0] = TASK_ID + 1 ; //parents return child id
++
++	TCB_TypeDef* tcb = (TCB_TypeDef*)(READY_QUEUE + CURR_TASK_P + 1);
++	tcb->magic_number = MAGIC_NUMBER;
++	tcb->task_id = TASK_ID;
++	TASK_ID++;
++	kprintf("task_id: %d\n", tcb->task_id);
++
++	tcb->status = READY;
++	tcb->execution_time = 0;
++	tcb->waiting_time = 0;
++	tcb->digital_sinature = DIGITAL_SIGNATURE;
++
++	tcb->psp = psp_for_child;
++
++	*(--tcb->psp) = parents_psp[7];      // xPSR
++	*(--tcb->psp) = (uint32_t)parents_psp[6]; // PC
++	*(--tcb->psp) = parents_psp[5];      // LR
++	*(--tcb->psp) = parents_psp[4];      // R12
++	*(--tcb->psp) = parents_psp[3];      // R3
++	*(--tcb->psp) = parents_psp[2];      // R2
++	*(--tcb->psp) = parents_psp[1];      // R1
++	*(--tcb->psp) = 0;      			 // R0 ... child returns 0
++
++	for(uint32_t i = 0; i < 8; i++)
++	{
++		*(--tcb->psp) = 0;
++	}
++
++	// *(--tcb->psp) = parents_psp[15];      // r4
++	// *(--tcb->psp) = parents_psp[14]; 	// r5
++	// *(--tcb->psp) = parents_psp[13];      // r6
++	// *(--tcb->psp) = parents_psp[12];      // R7
++	// *(--tcb->psp) = parents_psp[11];      // R8
++	// *(--tcb->psp) = parents_psp[10];      // R9
++	// *(--tcb->psp) = parents_psp[9];      // R10
++	// *(--tcb->psp) = parents_psp[8];      			 // R11
++
++	// kprintf("psp_child_stack: %x\n", READY_QUEUE[CURR_TASK_P + 1].psp);
++
++	// kprintf("psp_parent_stack: %x\n", parents_psp);
++
++	QUEUE_SIZE_P++;
++
++	__DSB();
++	__ISB();
++
++	
++	// SCB->ICSR |= (1 << 27) ; // Clear all pending interrupts
++	SCB->ICSR |= (1 << 28) ; // set PendSV bit
++
++	kprintf("forked\n");
++
++	return tcb->task_id;
++
++}
++
++
++
++void* heap_malloc(uint32_t size)
++{
++    if (size == 0)
++    {
++        return NULL; // Cannot allocate zero size
++    }
++
++    // Ensure size is aligned to 8 bytes
++    size = (size + 7) & ~7;
++
++    if (size > heap->available)
++    {
++        kprintf("Heap is full or requested size too large\n");
++        return NULL;
++    }
++
++	if(heap->free_list != NULL){
++		heap_chunk* temp = heap->free_list;
++		heap_chunk* prev_temp = NULL;
++
++		while(temp != NULL){
++			if((temp->size - sizeof(heap_chunk)) >= size && temp->isUse == 0){
++
++				temp->isUse = 1;
++				heap->available -= size;
++				
++
++				if(prev_temp == NULL){
++					heap->free_list = temp->next;
++
++					if(heap->curr == NULL){
++						heap->curr = temp;
++						
++					}
++					else{
++						heap->curr->next = temp;
++						temp->next = NULL;
++						heap->curr = temp;
++					}
++				}
++				else{
++					prev_temp->next = temp->next;
++
++					if(heap->curr == NULL){
++						heap->curr = temp;
++						
++					}
++					else{
++						heap->curr->next = temp;
++						temp->next = NULL;
++						heap->curr = temp;
++					}
++
++				}
++
++				uint32_t address = (uint32_t)((uint8_t *)heap->curr + sizeof(heap_chunk));
++
++				kprintf("Allocated %d bytes at address %x from freelist\n", heap->curr->size - sizeof(heap_chunk), address);
++				kprintf("Available heap size: %d bytes\n", heap->available);
++				
++				return (void *)(address);
++			}
++			prev_temp = temp;
++			temp = temp->next;
++		}
++	}
++
++	if(((uint8_t*)heap->curr + size + sizeof(heap_chunk)) >= (uint8_t*)&_eheap){
++		kprintf("Heap is full or requested size too large\n");
++		return NULL;
++	}
++
++    if (heap->curr == NULL)
++    {
++
++        // heap_chunk *newChunk = (heap_chunk *)((uint8_t *)heap->start + sizeof(heap_chunk) + size);
++        heap_chunk *newChunk = (heap_chunk *)((uint8_t *)heap->start);
++        newChunk->size = size + sizeof(heap_chunk); 
++        newChunk->isUse = 1;
++        newChunk->next = NULL;
++
++        heap->curr = newChunk;
++    }
++    else
++    {
++
++        heap_chunk *newChunk = (heap_chunk *)((uint8_t *)heap->curr + heap->curr->size);
++        newChunk->size = size + sizeof(heap_chunk);
++        newChunk->isUse = 1;
++        newChunk->next = NULL;
++
++        heap->curr->next = newChunk;
++        heap->curr = newChunk;
++    }
++
++    heap->available -= size + sizeof(heap_chunk);
++
++    uint32_t address = (uint32_t)((uint8_t *)heap->curr + sizeof(heap_chunk));
++
++    kprintf("Allocated %d bytes at address %x\n", size, address);
++    kprintf("Available heap size: %d bytes\n", heap->available);
++
++    return (void *)(address);
++}
++
++
++
++void heap_free(void *ptr)
++{
++    if (ptr == NULL)
++    {
++        return;
++    }
++
++    heap_chunk *chunk = (heap_chunk *)((uint8_t *)ptr - sizeof(heap_chunk)); // chunk who allocated the size
++
++    kprintf("memory to free --heap_free : %x\n", chunk);
++
++    if (chunk->isUse)
++    {
++        chunk->isUse = 0;
++    }
++
++    uint8_t* start = (uint8_t*)chunk + sizeof(heap_chunk);
++	uint32_t size = chunk->size - sizeof(heap_chunk);
++
++	int i=0;
++
++	while(i < size){
++		*start = 0;
++		start++;
++		i++;
++	}
++
++	chunk->next = heap->free_list;
++	heap->free_list = chunk;
++
++	kprintf("Freed %d bytes at address %x\n", size, (uint32_t)ptr);
++	kprintf("Available heap size: %d bytes\n", heap->available);
++}
++
++
++
++int __sys_execv(char *filename, char *argv[], char *envp[]){
++	kprintf("inside execv\n");
++
++	//doing nothing with argv and envp
++
++	file_entry_t file = file_list[find_file(filename)];
++
++	if(file.address == NULL){
++		kprintf("file not found\n");
++		return -1;
++	}
++
++	void (*func_ptr)(void) = (void (*)(void)) file.address;
++
++	TCB_TypeDef* tcb = (TCB_TypeDef*)(READY_QUEUE + CURR_TASK_P);
++
++	uint64_t psp_stack[1024];
++    tcb->psp = psp_stack + 1024;
++    *(--tcb->psp) = 0x01000000;      // xPSR
++    *(--tcb->psp) = (uint32_t)func_ptr; // PC
++    *(--tcb->psp) = 0xFFFFFFFD;      // LR
++
++    for (uint32_t i = 0; i < 13; i++)
++    {
++        *(--tcb->psp) = 0;
++    }
++
++	__sys_start_task((uint32_t)tcb->psp);
++
++
++    __ISB();
++
++	return 0;
++}
+\ No newline at end of file
+diff -ruN duos24/src/kern/lib/UsartRingBuffer.c duos24_lab3/src/kern/lib/UsartRingBuffer.c
+--- duos24/src/kern/lib/UsartRingBuffer.c	2024-09-20 13:03:09.000000000 +0600
++++ duos24_lab3/src/kern/lib/UsartRingBuffer.c	2025-03-17 02:25:31.340770678 +0600
+@@ -1,5 +1,5 @@
+ /*
+- * Copyright (c) 2022 
++ * Copyright (c) 2022
+  * Computer Science and Engineering, University of Dhaka
+  * Credit: CSE Batch 25 (starter) and Prof. Mosaddek Tushar
+  *
+@@ -27,7 +27,7 @@
+  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+  * SUCH DAMAGE.
+  */
+- 
++
+ #include <UsartRingBuffer.h>
+ #include <sys_usart.h>
+ #include <serial_lin.h>
+@@ -37,7 +37,6 @@
+ #include <cm4.h>
+ #include <cmd_def.h>
+ 
+-
+ /*  Define the device uart and pc uart below according to your setup  */
+ 
+ /* put the following in the ISR
+@@ -56,7 +55,6 @@
+ 	__UART_ENABLE_IT(huart, UART_IT_ERR);
+ 	/* Enable the UART Data Register not empty Interrupt */
+ 	__UART_ENABLE_IT(huart, UART_IT_RXNE);
+-	
+ }
+ 
+ void static store_char(unsigned char c, UART_HandleTypeDef *huart)
+@@ -64,11 +62,13 @@
+ 	ring_buffer *buffer = huart->pRxBuffPtr;
+ 	uint32_t buff_size = huart->RxXferSize;
+ 	unsigned int i = 0;
+-	if((buffer->head + 1) == buff_size) 
++	if ((buffer->head + 1) == buff_size)
++	{
++		i = 0;
++	}
++	else
+ 	{
+-		i=0;
+-	}else{
+-		i=buffer->head + 1;
++		i = buffer->head + 1;
+ 	}
+ 	// if we should be storing the received character into the location
+ 	// just before the tail (meaning that the head would advance to the
+@@ -226,18 +226,27 @@
+ 	unsigned int i;
+ 	if (c >= 0)
+ 	{
+-		if((uart->pTxBuffPtr->head + 1) == uart->TxXferSize)
++		if ((uart->pTxBuffPtr->head + 1) == uart->TxXferSize)
+ 		{
+-			i =0 ;
+-		}else
++			i = 0;
++		}
++		else
+ 		{
+-			i=uart->pTxBuffPtr->head + 1;
++			i = uart->pTxBuffPtr->head + 1;
+ 		}
+ 
+ 		// If the output buffer is full, there's nothing for it other than to
+ 		// wait for the interrupt handler to empty it a bit
+ 		// ???: return 0 here instead?
+-		while (i == uart->pTxBuffPtr->tail);
++
++		// if (i == uart->pTxBuffPtr->tail)
++		// {
++		// 	// kprintf("Uart buffer full, dropping character: %c\n", c);
++		// 	return; // Drop the character instead of hanging
++		// }
++
++		while (i == uart->pTxBuffPtr->tail)
++			;
+ 
+ 		uart->pTxBuffPtr->buffer[uart->pTxBuffPtr->head] = (uint8_t)c;
+ 		uart->pTxBuffPtr->head = i;
+@@ -342,16 +351,16 @@
+ {
+ 	int so_far = 0;
+ 	int len = (int)__strlen((uint8_t *)string);
+-	uint32_t c_time=__getTime();
++	uint32_t c_time = __getTime();
+ again_device:
+ 	while (!IsDataAvailable(uart))
+ 	{
+-		#ifdef MS_TIMEOUT
+-			if((__getTime()-c_time) >= MS_TIMEOUT*1000)
+-			{
+-				return SYS_TIMEOUT;
+-			} 
+-		#endif
++#ifdef MS_TIMEOUT
++		if ((__getTime() - c_time) >= MS_TIMEOUT * 1000)
++		{
++			return SYS_TIMEOUT;
++		}
++#endif
+ 	}
+ 	if (Uart_peek(uart) != string[so_far])
+ 	{
+@@ -366,12 +375,12 @@
+ 			return 1;
+ 		while (!IsDataAvailable(uart))
+ 		{
+-		#ifdef MS_TIMEOUT
+-			if((__getTime()-c_time) >= MS_TIMEOUT*1000)
++#ifdef MS_TIMEOUT
++			if ((__getTime() - c_time) >= MS_TIMEOUT * 1000)
+ 			{
+ 				return SYS_TIMEOUT;
+-			} 
+-		#endif
++			}
++#endif
+ 		}
+ 	}
+ 
+@@ -387,25 +396,24 @@
+ 		return 0;
+ }
+ 
+-int look_for_frame(char *string, UART_HandleTypeDef *uart,uint32_t timeout,uint8_t *target)
++int look_for_frame(char *string, UART_HandleTypeDef *uart, uint32_t timeout, uint8_t *target)
+ {
+ 	int so_far = 0;
+ 	uint8_t c;
+ 	uint32_t j;
+ 	int len = (int)__strlen((uint8_t *)string);
+-	uint32_t c_time=__getTime();
++	uint32_t c_time = __getTime();
+ again_device:
+-	j=0;
++	j = 0;
+ 	while (!IsDataAvailable(uart))
+ 	{
+-		if(timeout>0)
++		if (timeout > 0)
+ 		{
+-			if((__getTime()-c_time) >= timeout)
++			if ((__getTime() - c_time) >= timeout)
+ 			{
+ 				return SYS_TIMEOUT;
+-			} 
++			}
+ 		}
+-		
+ 	}
+ 	if (Uart_peek(uart) != string[so_far])
+ 	{
+@@ -415,29 +423,32 @@
+ 	while (Uart_peek(uart) == string[so_far])
+ 	{
+ 		so_far++;
+-		c=Uart_read(uart);
+-		target[j]=c;
++		c = Uart_read(uart);
++		target[j] = c;
+ 		j++;
+ 		if (so_far == len)
+ 		{
+-			while (!IsDataAvailable(uart));
+-			while(Uart_peek(uart)!='\n'){
+-				c=Uart_read(uart);
+-				target[j]=c;
++			while (!IsDataAvailable(uart))
++				;
++			while (Uart_peek(uart) != '\n')
++			{
++				c = Uart_read(uart);
++				target[j] = c;
+ 				j++;
+-				while (!IsDataAvailable(uart));
++				while (!IsDataAvailable(uart))
++					;
+ 			}
+-			target[j]=0;
++			target[j] = 0;
+ 			return 1;
+ 		}
+ 		while (!IsDataAvailable(uart))
+ 		{
+-			if(timeout>0)
++			if (timeout > 0)
+ 			{
+-				if((__getTime()-c_time) >= timeout)
++				if ((__getTime() - c_time) >= timeout)
+ 				{
+-				return SYS_TIMEOUT;
+-				} 
++					return SYS_TIMEOUT;
++				}
+ 			}
+ 		}
+ 	}
+@@ -445,7 +456,7 @@
+ 	if (so_far != len)
+ 	{
+ 		so_far = 0;
+-		j=0;
++		j = 0;
+ 		goto again_device;
+ 	}
+ 
+@@ -453,13 +464,12 @@
+ 		return 1;
+ 	else
+ 	{
+-		target[0]=0;
++		target[0] = 0;
+ 		return 0;
+ 	}
+ }
+ 
+-void 
+-Uart_isr(UART_HandleTypeDef *huart)
++void Uart_isr(UART_HandleTypeDef *huart)
+ {
+ 	uint32_t isrflags = READ_REG(huart->Instance->SR);
+ 	uint32_t cr1its = READ_REG(huart->Instance->CR1);
+@@ -508,13 +518,14 @@
+ 		{
+ 			// There is more data in the output buffer. Send the next byte
+ 			c = huart->pTxBuffPtr->buffer[huart->pTxBuffPtr->tail];
+-			if(huart->pTxBuffPtr->tail+1 == huart->TxXferSize)
++			if (huart->pTxBuffPtr->tail + 1 == huart->TxXferSize)
+ 			{
+-				huart->pTxBuffPtr->tail=0;
+-			}else{
+-				huart->pTxBuffPtr->tail = (huart->pTxBuffPtr->tail + 1)	;
++				huart->pTxBuffPtr->tail = 0;
++			}
++			else
++			{
++				huart->pTxBuffPtr->tail = (huart->pTxBuffPtr->tail + 1);
+ 			}
+-
+ 
+ 			/******************
+ 			*  @note   PE (Parity error), FE (Framing error), NE (Noise error), ORE (Overrun
+@@ -537,12 +548,11 @@
+ 	}
+ }
+ 
+-
+-int32_t update_tail(UART_HandleTypeDef *huart,uint32_t len)
++int32_t update_tail(UART_HandleTypeDef *huart, uint32_t len)
+ {
+-	if(((huart->pRxBuffPtr->tail+len) % huart->RxXferSize)<= huart->pRxBuffPtr->head)
++	if (((huart->pRxBuffPtr->tail + len) % huart->RxXferSize) <= huart->pRxBuffPtr->head)
+ 	{
+-		huart->pRxBuffPtr->tail=((huart->pRxBuffPtr->tail+len) % huart->RxXferSize);
++		huart->pRxBuffPtr->tail = ((huart->pRxBuffPtr->tail + len) % huart->RxXferSize);
+ 		return 0;
+ 	}
+ 	return -1;
+@@ -550,18 +560,107 @@
+ 
+ void debug_buffer(UART_HandleTypeDef *huart)
+ {
+-	uint32_t i=huart->pRxBuffPtr->tail;
+-	uint8_t *buffer=huart->pRxBuffPtr->buffer;
+-	uint32_t flag=0;
+-	while(((huart->RxXferSize+huart->pRxBuffPtr->head-i)%huart->RxXferSize)>0)
+-	{
+-		flag=1;
+-		Uart_write(buffer[i],__CONSOLE);
+-		i=((i+1)%huart->RxXferSize);
++	uint32_t i = huart->pRxBuffPtr->tail;
++	uint8_t *buffer = huart->pRxBuffPtr->buffer;
++	uint32_t flag = 0;
++	while (((huart->RxXferSize + huart->pRxBuffPtr->head - i) % huart->RxXferSize) > 0)
++	{
++		flag = 1;
++		Uart_write(buffer[i], __CONSOLE);
++		i = ((i + 1) % huart->RxXferSize);
+ 	}
+-	if(flag == 1)
++	if (flag == 1)
+ 	{
+-		Uart_write('\n',__CONSOLE);
++		Uart_write('\n', __CONSOLE);
++	}
++}
++
++
++/******** later added ********/
++
++
++
++void DRV_USART_INIT(USART_TypeDef* usart)
++{	
++	/*****Modify according to your need *****/
++
++	RCC->APB1ENR |= (1<<17); //enable UART 2
++	RCC->AHB1ENR |= (1<<0); //enable GPIOA clock
++	
++		
++	//2. Configure UART pin for Alternate function
++	GPIOA->MODER |= (2<<4); //bits [5:4] -> 1:0 -->Alternate function for pin PA2
++	GPIOA->MODER |= (2<<6); //bits [7:6] -> 1:0 -->Alternate function for PA3
++	
++	GPIOA->OSPEEDR |= (3<<4) | (3<<6); //bits [5:4] -> 1:1 -> high speed PA2; bits [7:6] -> 1:1 -> high speed PA3 
++	
++	GPIOA->AFR[0] |= (7<<8);//Bytes (11:10:09:08) = 0:1:1:1 --> AF7 Alternate function for USART2 at pin PA2
++	GPIOA->AFR[0] |= (7<<12); //Bytes (15:14:13:12) = 0:1:1:1 --> AF7 Alternate function for USART2 at pin PA3
++	
++	//3. Enable UART on USART_CR1 rgister
++	USART2->CR1 = 0x00; //clear USART
++	USART2->CR1 |= (1<<13);  // UE-bit enable USART
++	
++	//4. Program M bit in USART CR1 to define the word length
++	USART2->CR1 &= ~(1U<<12); // set M bit  = 0 for 8-bit word length
++	
++	//5. Select the baud rate using the USART_BRR register.
++	USART2->BRR |= (7<<0) | (24<<4); //115200
++	
++	//  6. Enable transmission TE and recieption bits in USART_CR1 register
++	USART2->CR1 |= (1<<2); // enable RE for receiver 
++	USART2->CR1 |= (1<<3); //enable TE for transmitter
++}
++/*****Modify according to your need *****/
++void UART_SendChar(USART_TypeDef *usart,uint8_t c){
++	usart->DR = c;
++	while(!(usart->SR & (1<<7)));
++}
++/*****Modify according to your need *****/
++void _USART_WRITE(USART_TypeDef *usart,uint8_t *s)
++{
++	while (*s) UART_SendChar(usart,*s++);
++}
++/*****Modify according to your need *****/
++uint8_t _USART_READ(USART_TypeDef* usart,uint8_t *buff,uint16_t size)
++{
++	uint8_t n=0;
++	for(uint8_t i=0;i<size;i++){
++		buff[i]=UART_GetChar(usart);
++		n=i;
+ 	}
++	buff[n+1] = '\0';
++	return n;
++}
++
++/*****Modify according to your need *****/
++
++uint8_t UART_GetChar(USART_TypeDef *usart){
++	uint8_t tmp;
++	while(!(usart->SR & (1<<5)));
++	tmp=(uint8_t)usart->DR;
++	return tmp;
+ }
+ 
++uint8_t _USART_READ_STR(USART_TypeDef* usart,uint8_t *buff,uint16_t size)
++{
++	uint8_t n=0;
++	for(uint8_t i=0;i<size;i++){
++		buff[i]=UART_GetChar(usart);
++		n=i;
++		if(buff[i]=='\0' || buff[i] == '\n' || buff[i] == ' ')
++		{ 	
++			buff[i]='\0';
++			break;
++		}
++	}
++	return n;
++}
++
++
++
++
++
++
++
++/****************************/
+\ No newline at end of file
+diff -ruN duos24/src/kern/syscall/syscall.c duos24_lab3/src/kern/syscall/syscall.c
+--- duos24/src/kern/syscall/syscall.c	2022-10-28 14:58:00.000000000 +0600
++++ duos24_lab3/src/kern/syscall/syscall.c	2025-03-17 02:25:31.341770707 +0600
+@@ -1,61 +1,125 @@
+-/*
+- * Copyright (c) 2022 
+- * Computer Science and Engineering, University of Dhaka
+- * Credit: CSE Batch 25 (starter) and Prof. Mosaddek Tushar
+- *
+- * Redistribution and use in source and binary forms, with or without
+- * modification, are permitted provided that the following conditions
+- * are met:
+- * 1. Redistributions of source code must retain the above copyright
+- *    notice, this list of conditions and the following disclaimer.
+- * 2. Redistributions in binary form must reproduce the above copyright
+- *    notice, this list of conditions and the following disclaimer in the
+- *    documentation and/or other materials provided with the distribution.
+- * 3. Neither the name of the University nor the names of its contributors
+- *    may be used to endorse or promote products derived from this software
+- *    without specific prior written permission.
+- *
+- * THIS SOFTWARE IS PROVIDED BY THE UNIVERSITY AND CONTRIBUTORS ``AS IS'' AND
+- * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+- * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+- * ARE DISCLAIMED.  IN NO EVENT SHALL THE UNIVERSITY OR CONTRIBUTORS BE LIABLE
+- * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+- * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+- * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+- * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+- * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+- * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+- * SUCH DAMAGE.
+-*/
+-
+-#include <syscall.h>
+-#include <syscall_def.h>
+-#include <errno.h>
+-#include <errmsg.h>
+-void syscall(uint16_t callno)
++
++
++#include <sys_call.h>
++
++void syscall(uint32_t *svc_args)
+ {
+-/* The SVC_Handler calls this function to evaluate and execute the actual function */
+-/* Take care of return value or code */
+-	switch(callno)
+-	{
+-		/* Write your code to call actual function (kunistd.h/c or times.h/c and handle the return value(s) */
+-		case SYS_read: 
+-			break;
+-		case SYS_write:
+-			break;
+-		case SYS_reboot:
+-			break;	
+-		case SYS__exit:
+-			break;
+-		case SYS_getpid:
+-			break;
+-		case SYS___time:
+-			break;
+-		case SYS_yield:
+-			break;				
+-		/* return error code see error.h and errmsg.h ENOSYS sys_errlist[ENOSYS]*/	
+-		default: ;
++	/* The SVC_Handler calls this function to evaluate and execute the actual function */
++	/* Take care of return value or code */
++
++	uint32_t callno = ((uint8_t *)svc_args[6])[-2];
++	// kprintf("callno : %d is being called\n", callno);
++
++	switch (callno)
++	{
++	/* Write your code to call actual function (kunistd.h/c or times.h/c and handle the return value(s) */
++	case SYS_read:
++	{
++		char *format = (char *)svc_args[0];
++		va_list *args_ptr = (va_list *)svc_args[1]; // Cast to va_list pointer
++		va_list args;
++		va_copy(args, *args_ptr); // Copy contents properly
++		kscanf(format, args);
++		va_end(args);
++		break;
+ 	}
+-/* Handle SVC return here */
+-}
++	case SYS_write:
++	{
++		uint8_t fd_w = svc_args[0];
++		char *buffer_w = (char *)svc_args[1];
++		uint32_t size_w = svc_args[3];
++
++		__ISB();
++		// kprintf("fd: %d\n", fd_w);
++		// kprintf("buffer: %s\n", (char *)buffer_w);
++		// kprintf("size: %d\n", size_w);
++
++		Uart_sendstring(buffer_w, &huart2);
++		// _USART_WRITE(USART2, (uint8_t*)buffer);
++
++		break;
++	}
++	case SYS_reboot:
++	{
++		__NVIC_SystemReset();
++		break;
++	}
++	case SYS_start:
++	{
++		uint32_t psp = (uint32_t)svc_args[0];
++		__sys_start_task(psp);
++		break;
++	}
++	case SYS__exit:
++	{
++		TCB_TypeDef *tcb_to_kill = (TCB_TypeDef *)svc_args[2];
++		tcb_to_kill->status = KILLED;
++		break;
++	}
++	case SYS_getpid:
++	{
++		int pid = READY_QUEUE[CURR_TASK_P].task_id;
++		svc_args[0] = pid;
++		break;
++	}
++	case SYS___time:
++	{
++		uint32_t time = __getTime();
++		svc_args[0] = time;
++		kprintf("Time in syscall: %d\n", time);
++		break;
++	}
++	case SYS_yield:
++	{
++		// SCB->ICSR |= (1 << 27); // Clear all pending interrupts
++		SCB->ICSR |= (1 << 28); // set PendSV bit
++		break;
++	}
++	case SYS_set_pending:
++	{
++		uint8_t value = (uint8_t)svc_args[0];
++		__set_pending(value);
++		break;
++	}
++	case SYS_fork:
++	{
++		int pid = __sys_fork(svc_args);
++		svc_args[2] = pid;
++		break;
++	}
++	case SYS_malloc:
++	{
++		uint32_t size_m = svc_args[2];
++		void *ptr = heap_malloc(size_m);
++		kprintf("Malloc ptr: %x\n", ptr);
++		svc_args[2] = (uint32_t)ptr;
++		break;
++	}
++	case SYS_free:
++	{
++		void *ptr1 = (void *)svc_args[2];
++
++		kprintf("memory to free --syscall : %x\n", ptr1);
++		heap_free(ptr1);
+ 
++		*(&ptr1) = NULL;
++		break;
++	}
++	case SYS_execv:
++	{
++		char *filename = (char *)svc_args[0];
++		char **argv = (char **)svc_args[1];
++		char **envp = (char **)svc_args[2];
++		int val = __sys_execv(filename, argv, envp);
++		svc_args[0] = val;
++		break;
++	}
++	/* return error code see error.h and errmsg.h ENOSYS sys_errlist[ENOSYS]*/
++	default:
++	{
++		kprintf("Error: Invalid syscall number %d\n", callno);
++		break;
++	}
++	}
++	/* Handle SVC return here */
++}
+diff -ruN duos24/src/userland/include/app.h duos24_lab3/src/userland/include/app.h
+--- duos24/src/userland/include/app.h	1970-01-01 06:00:00.000000000 +0600
++++ duos24_lab3/src/userland/include/app.h	2025-03-17 02:25:31.342770736 +0600
+@@ -0,0 +1,4 @@
++#include <unistd.h>
++#include <times.h>
++
++int umain();
+diff -ruN duos24/src/userland/include/times.h duos24_lab3/src/userland/include/times.h
+--- duos24/src/userland/include/times.h	2022-10-27 08:19:00.000000000 +0600
++++ duos24_lab3/src/userland/include/times.h	2025-03-17 02:25:31.345770824 +0600
+@@ -1,5 +1,5 @@
+ /*
+- * Copyright (c) 2022 
++ * Copyright (c) 2022
+  * Computer Science and Engineering, University of Dhaka
+  * Credit: CSE Batch 25 (starter) and Prof. Mosaddek Tushar
+  *
+@@ -27,8 +27,24 @@
+  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+  * SUCH DAMAGE.
+  */
+- 
++
+ #ifndef __TIMES_H
+ #define __TIMES_H
+ /* Define times function prototypes here */
++
++#include <stdint.h>
++#include <syscall_def.h>
++#include <types.h>
++
++uint32_t du_getSystickTime(void);
++
++void du_reboot(void);
++
++void *du_malloc(uint32_t size);
++
++void du_free(void *ptr);
++
++void fopen(char *name, uint8_t t_access, uint32_t *op_addr);
++
++void fclose(uint32_t *op_addr);
+ #endif
+diff -ruN duos24/src/userland/include/unistd.h duos24_lab3/src/userland/include/unistd.h
+--- duos24/src/userland/include/unistd.h	2022-10-27 08:21:00.000000000 +0600
++++ duos24_lab3/src/userland/include/unistd.h	2025-03-17 02:25:31.346770853 +0600
+@@ -32,4 +32,14 @@
+ #define __UNISTD_H
+ /* Basic input and output function */
+ 
++#include <stdint.h>
++#include <types.h>
++#include <syscall_def.h>
++#include <stdarg.h>
++#include <kstring.h>
++#include <cm4.h>
++
++
++void du_printf(char *format, ...);
++void du_scanf(char* format, ...);
+ #endif
+diff -ruN duos24/src/userland/utils/app.c duos24_lab3/src/userland/utils/app.c
+--- duos24/src/userland/utils/app.c	1970-01-01 06:00:00.000000000 +0600
++++ duos24_lab3/src/userland/utils/app.c	2025-03-17 02:25:31.346770853 +0600
+@@ -0,0 +1,8 @@
++#include <app.h>
++
++int umain()
++{
++    du_printf("Inside app.c");
++
++    return 0;
++}
+\ No newline at end of file
+diff -ruN duos24/src/userland/utils/times.c duos24_lab3/src/userland/utils/times.c
+--- duos24/src/userland/utils/times.c	2022-10-27 08:20:00.000000000 +0600
++++ duos24_lab3/src/userland/utils/times.c	2025-03-17 02:25:31.346770853 +0600
+@@ -1,5 +1,5 @@
+ /*
+- * Copyright (c) 2022 
++ * Copyright (c) 2022
+  * Computer Science and Engineering, University of Dhaka
+  * Credit: CSE Batch 25 (starter) and Prof. Mosaddek Tushar
+  *
+@@ -27,7 +27,99 @@
+  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+  * SUCH DAMAGE.
+  */
+- 
++
+ #include <times.h>
+ /* Define you function details here */
+ 
++uint32_t du_getSystickTime(void)
++{
++    uint32_t time;
++
++    asm volatile(
++        "PUSH {r4-r11, ip, lr}\n"
++        "svc %0\n"
++        "POP {r4-r11, ip, lr}\n"
++        :
++        : "i"(SYS___time));
++
++    asm volatile(
++        "mov %0, r0\n"
++        : "=r"(time));
++
++    return time;
++}
++
++void du_reboot(void)
++{
++    asm volatile(
++        "PUSH {r4-r11, ip, lr}\n"
++        "svc %0\n"
++        "POP {r4-r11, ip, lr}\n"
++        :
++        : "i"(SYS_reboot));
++}
++
++void *du_malloc(uint32_t size)
++{
++    uint8_t sys_malloc = 69;
++    void *ptr;
++    __asm volatile(
++        "mov r2, %0\n"
++        "PUSH {r4-r11, ip, lr}\n"
++        "svc %1\n"
++        "POP {r4-r11, ip, lr}\n"
++        :
++        : "r"(size), "i"(SYS_malloc));
++
++    __asm volatile(
++        "mov %0, r2\n"
++        : "=r"(ptr));
++
++    return ptr;
++}
++
++void du_free(void *ptr)
++{
++
++    kprintf("memory to free --times : %x\n", ptr);
++    asm volatile(
++        "mov r2, %0\n"
++        "PUSH {r4-r11, ip, lr}\n"
++        "svc %1\n"
++        "POP {r4-r11, ip, lr}\n"
++        :
++        : "r"(ptr), "i"(SYS_free));
++
++    ptr = NULL;
++    kprintf("memory to free --times : %x\n", ptr);
++}
++
++void fopen(char *name, uint8_t t_access, uint32_t *op_addr)
++{
++    __asm volatile(
++        "mov r0, %[x]\n"
++        "mov r1, %[y]\n"
++        :
++        : [x] "r"(name), [y] "r"(t_access));
++    __asm volatile(
++        "mov r2, %[x]\n"
++        :
++        : [x] "r"(op_addr));
++
++    __asm volatile("PUSH {r4-r11, ip, lr}");
++    __asm volatile("svc %0" : : "i"(SYS_open));
++
++    __asm volatile("POP {r4-r11, ip, lr}");
++}
++
++void fclose(uint32_t *op_addr)
++{
++    __asm volatile(
++        "mov r0, %[x]\n"
++        :
++        : [x] "r"(op_addr));
++    __asm volatile("PUSH {r4-r11, ip, lr}");
++    __asm volatile("svc %0" : : "i"(SYS_close));
++
++    __asm volatile("POP {r4-r11, ip, lr}");
++}
+\ No newline at end of file
+diff -ruN duos24/src/userland/utils/unistd.c duos24_lab3/src/userland/utils/unistd.c
+--- duos24/src/userland/utils/unistd.c	2022-10-27 08:22:00.000000000 +0600
++++ duos24_lab3/src/userland/utils/unistd.c	2025-03-17 02:25:31.347770882 +0600
+@@ -1,5 +1,5 @@
+ /*
+- * Copyright (c) 2022 
++ * Copyright (c) 2022
+  * Computer Science and Engineering, University of Dhaka
+  * Credit: CSE Batch 25 (starter) and Prof. Mosaddek Tushar
+  *
+@@ -27,7 +27,157 @@
+  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+  * SUCH DAMAGE.
+  */
+- 
++
+ #include <unistd.h>
+ /* Write your highlevel I/O details */
+ 
++void du_scanf(char *format, ...)
++{
++    va_list args;
++    va_start(args, format);
++
++    __asm volatile(
++        "mov r0, %0\n"
++        "mov r1, %1\n"
++        :
++        : "r"(format), "r"(&args));
++
++    __asm volatile("PUSH {r4-r11}");
++    __asm volatile(
++        "svc %0\n"
++        "POP {r4-r11}\n"
++        :
++        : "i"(SYS_read));
++
++    va_end(args);
++}
++
++void du_printf(char *format, ...)
++{
++    uint8_t str[500];
++    int index = 0;
++    va_list(place_holders);
++
++    va_start(place_holders, format);
++
++    int i = 0;
++    while (format[i] != '\0')
++    {
++        if (format[i] == '%')
++        {
++            i++;
++            if (format[i] == 'd')
++            {
++                int num = va_arg(place_holders, int);
++                if (num < 0)
++                {
++                    str[index] = '-';
++                    index++;
++                    num = -num;
++                }
++                uint8_t *result = convert(num, 10);
++
++                for (result; *result != '\0'; result++)
++                {
++                    str[index] = *result;
++                    index++;
++                }
++            }
++            else if (format[i] == 'c')
++            {
++                uint8_t ch = va_arg(place_holders, int);
++
++                str[index] = ch;
++                index++;
++            }
++            else if (format[i] == 's')
++            {
++                uint8_t *s = va_arg(place_holders, uint8_t *);
++                for (s; *s != '\0'; s++)
++                {
++                    str[index] = *s;
++                    index++;
++                }
++            }
++            else if (format[i] == 'f')
++            {
++                double num = va_arg(place_holders, double);
++
++                // uint8_t* result = float_2_str(num);
++                uint8_t *result = float2str(num);
++                for (result; *result != '\0'; result++)
++                {
++                    str[index] = *result;
++                    index++;
++                }
++            }
++            else if (format[i] == 'x')
++            {
++                int num = va_arg(place_holders, int);
++                if (num < 0)
++                {
++                    str[index] = '-';
++                    index++;
++                    num = -num;
++                }
++
++                str[index] = '0';
++                index++;
++                str[index] = 'x';
++                index++;
++
++                uint8_t *result = convert(num, 16);
++                for (result; *result != '\0'; result++)
++                {
++                    str[index] = *result;
++                    index++;
++                }
++            }
++        }
++        else
++        {
++
++            str[index] = (uint8_t)format[i];
++            index++;
++        }
++        i++;
++    }
++
++    str[index] = '\0';
++
++    va_end(place_holders);
++
++    volatile uint8_t fd = 1;
++    volatile char *buffer = (uint8_t *)str;
++    volatile uint32_t size_x = index;
++
++    // kprintf("format: %s\n", format);
++
++    // kprintf("fd: %d\n", fd);
++    // kprintf("buffer: %s\n", (char *)buffer);
++    // kprintf("size: %d\n", size_x);
++
++    __asm volatile(
++        "mov r0, %0\n" : : "r"(fd));
++    __asm volatile(
++        "mov r1, %0\n" : : "r"(buffer));
++    __asm volatile(
++        "mov r2, %0\n" : : "r"(size_x));
++
++    __ISB();
++
++    // int x = 0;
++    // asm volatile("mov %0, r3\n"
++    //              : "=r"(x));
++    // kprintf("x: %d\n", x);
++
++    __DSB();
++    __ISB();
++
++    asm volatile("PUSH {r4-r11}");
++    asm volatile(
++        "svc %0\n"
++        "POP {r4-r11}\n"
++        :
++        : "i"(SYS_write));
++}
+\ No newline at end of file
+diff -ruN duos24/.vscode/settings.json duos24_lab3/.vscode/settings.json
+--- duos24/.vscode/settings.json	1970-01-01 06:00:00.000000000 +0600
++++ duos24_lab3/.vscode/settings.json	2025-03-17 02:25:31.347770882 +0600
+@@ -0,0 +1,20 @@
++{
++  "files.associations": {
++    "syscall.h": "c",
++    "stm32_startup.h": "c",
++    "syscall_def.h": "c",
++    "kunistd.h": "c",
++    "sys_call.h": "c",
++    "cm4.h": "c",
++    "kmain.h": "c",
++    "stdint.h": "c",
++    "kstring.h": "c",
++    "cstdint": "c",
++    "times.h": "c",
++    "unistd.h": "c",
++    "unixtd.h": "c",
++    "stdarg.h": "c",
++    "sys_usart.h": "c",
++    "kstdio.h": "c"
++  }
++}
